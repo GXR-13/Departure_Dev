@@ -1,0 +1,51 @@
+
+state = {
+	id = 531
+	name = "STATE_531" # Kansai
+	manpower = 11015000
+	state_category = city
+	resources = {
+		aluminium = 3 # was: 6
+	}
+
+	history = {
+		owner = MJP
+		add_core_of = MJP
+ 
+ 
+
+		buildings = {
+			infrastructure = 4 #was: 8
+			arms_factory = 2
+			industrial_complex = 4
+			dockyard = 2
+			1136 = {
+				naval_base = 6
+			}
+			7072 = {
+				naval_base = 3
+			}
+
+		}
+
+		victory_points = {
+			7072 20 # Osaka
+		}
+
+		
+
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 3
+				industrial_complex = 5
+			}
+		}
+
+	}
+
+	provinces = {
+		1136 7072 7113 9985 12031 
+	}
+
+	local_supplies = 9.0 
+}

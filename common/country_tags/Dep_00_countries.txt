@@ -1,0 +1,27 @@
+#China
+##HAN
+HAN = "countries/China.txt" #大汉
+HHX = "countries/China.txt" #汉-河西
+HBH = "countries/China.txt" #汉-渤海
+HDB = "countries/China.txt" #汉-东北
+##MING
+MNG = "countries/China.txt" #大明
+MSZ = "countries/China.txt" #明-蜀
+MHN = "countries/China.txt" #明-信
+MTT = "countries/China.txt" #明-丰臣船队
+##Others
+ZZA = "countries/China.txt" #华中无政府
+BBL = "countries/China.txt" #白莲教
+CSD = "countries/China.txt" #山东工义军
+CSX = "countries/China.txt" #陕西工义军
+SHN = "countries/China.txt" #大顺
+KAM = "countries/China.txt" #康
+TIB = "countries/China.txt" #藏 
+
+#East Asia
+SGJ = "countries/Japan.txt" #日本幕府
+MJP = "countries/Japan.txt" #明-日本
+KSU = "countries/Japan.txt" #九州
+EZO = "countries/Japan.txt" #虾夷
+KOR = "countries/Korea.txt" #朝鲜
+

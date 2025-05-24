@@ -1,0 +1,15 @@
+state={
+	#Spilted from 620 Hubei, pop not yet done
+	id=1022
+	name="STATE_1022"
+	history = {
+		owner = ZZA
+	}
+	provinces={
+		4009 7580 7625 9934 10462 
+	}
+	manpower=0
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

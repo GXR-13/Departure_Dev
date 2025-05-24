@@ -1,0 +1,16 @@
+state={
+	#Spilted from 605 Sichuan, pop not yet done
+	id=1019
+	name="STATE_1019"
+	history = {
+		owner = SHN
+		add_core_of = SHN
+	}
+	provinces={
+		1893 2030 2091 5048 7256 10144 11865 12274 
+	}
+	manpower=0
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

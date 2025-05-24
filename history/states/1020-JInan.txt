@@ -1,0 +1,19 @@
+state={
+	#Spilted from 597 Shandong, pop not yet done
+	id=1020
+	name="STATE_1020"
+	history = {
+		owner = BBL
+		add_core_of = BBL
+		victory_points = {
+			1069 3 
+		}
+	}
+	provinces={
+		1069 4037 7160 7189 9987 10043 10072 11933 11962 12015 12069 
+	}
+	manpower=0
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

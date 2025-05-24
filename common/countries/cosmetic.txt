@@ -1,0 +1,34 @@
+HBH_HAN_Puppet_0 = {
+    color = rgb { 188 39 38 }
+    color_ui = rgb { 188 39 38 }
+}
+
+HHX_HAN_Puppet_0 = {
+    color = rgb { 179 39 44 }
+    color_ui = rgb { 179 39 44 }
+}
+
+HDB_HAN_Puppet_0 = {
+    color = rgb { 188 57 45 }
+    color_ui = rgb { 188 57 45 }
+}
+
+MSZ_MNG_Puppet_0 = {
+    color = rgb { 182 135 120 }
+    color_ui = rgb { 182 135 120 }
+}
+
+MHN_MNG_Puppet_0 = {
+    color = rgb { 188 136 107 }
+    color_ui = rgb { 188 136 107 }
+}
+
+MTT_MNG_Puppet_0 = {
+    color = rgb { 172 128 107 }
+    color_ui = rgb { 172 128 107 }
+}
+
+MJP_MNG_Puppet_0 = {
+    color = rgb { 178 134 113 }
+    color_ui = rgb { 178 134 113 }
+}

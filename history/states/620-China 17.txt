@@ -1,0 +1,28 @@
+state = {
+	id = 620
+	name = "STATE_620"
+
+	history = {
+
+		owner = MNG
+		add_core_of = MNG
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 2
+			air_base = 1 # Wuhan Wangjiadun Airbase
+		}
+
+		
+	}
+
+	provinces={
+		1612 4130 7019 7596 7609 7948 8072 10474 12408 
+	}
+	manpower = 25541600
+	buildings_max_level_factor = 1.000
+	state_category = town
+
+	local_supplies = 2.0 
+}

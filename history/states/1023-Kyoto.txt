@@ -1,0 +1,19 @@
+state={
+	#Spilted from 531 Osaka, pop not yet done
+	id=1023
+	name="STATE_1023"
+	history = {
+		owner = SGJ
+		add_core_of = SGJ
+		victory_points = {
+			11960 40 # Kyoto
+		}
+	}
+	provinces={
+		1051 1067 1133 4054 4142 11960 
+	}
+	manpower=0
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

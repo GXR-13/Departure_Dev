@@ -1,0 +1,107 @@
+#reload countrycolors
+
+#China
+##HAN
+HAN = {
+	color = rgb { 177 24 44 }
+	color_ui = rgb { 177 24 44 }	
+}
+
+HHX = {
+	color = rgb { 191 129 46 }
+	color_ui = rgb { 191 129 46 }	
+}
+
+HBH = {
+	color = rgb { 254 128 1 }
+	color_ui = rgb { 254 128 1 }	
+}
+
+HDB = {
+	color = rgb { 255 255 52 }
+	color_ui = rgb { 255 255 52 }	
+}
+##MING
+MNG = {
+	color = rgb { 179 128 104 }
+	color_ui = rgb { 179 128 104 }
+}
+
+MSZ = {
+	color = rgb { 201 178 213 }
+	color_ui = rgb { 201 178 203 }
+}
+
+MHN  = {
+	color = rgb { 238 180 122 }
+	color_ui = rgb { 238 180 122 }
+}
+
+MTT = {
+	color = rgb { 127 127 127 }
+	color_ui = rgb { 127 127 127 }
+}
+
+MJP = {
+	color = rgb { 173 173 163 }
+	color_ui = rgb { 173 173 163 }
+}
+##CHINA Others
+CSX = {
+	color = rgb { 0 102 209 }
+	color_ui = rgb { 0 102 209 }
+}
+CSD = {
+	color = rgb { 0 117 189 }
+	color_ui = rgb { 0 117 189 }
+}
+SHN = {
+	color = rgb { 140 169 183 }
+	color_ui = rgb { 140 169 183 }
+}
+
+BBL = {
+	color = rgb { 209 209 209 }
+	color_ui = rgb { 209 209 209 }
+}
+
+TIB = {
+	color = rgb {98 151 255}
+	color_ui = rgb {98 151 255}
+}
+
+KAM = {
+	color = rgb { 33 168 103 }
+	color_ui = rgb { 33 168 103 }
+}
+
+ZZA = {
+	color = rgb { 35 35 35 }
+	color_ui = rgb { 35 35 35 }
+}
+
+#JAP&KOR
+
+KOR = {
+	color = rgb { 62 53 177 }
+	color_ui = rgb { 62 53 177 }
+}
+
+SGJ = {
+	color = rgb { 52 98 85 }
+	color_ui = rgb { 52 98 85 }
+}
+
+KSU = {
+	color = RGB { 123 71 65 }
+	color_ui = RGB { 123 71 65 }
+}
+
+EZO = {
+	color = RGB { 201 197 124 }
+	color_ui = RGB { 201 197 124 }
+}
+
+
+
+
