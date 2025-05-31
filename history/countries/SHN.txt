@@ -1,6 +1,6 @@
 capital = 1019
 
-#oob = "NOA_1936"
+ 
 
 set_research_slots = 3
 
