@@ -981,6 +981,10 @@ technologies = {
 			modern_tank_artillery_chassis_1
 			modern_tank_aa_chassis_1
 		}
+		path = {
+			leads_to_tech = main_battle_tank_chassis_2
+			research_cost_coeff = 1
+		}
 		enable_subunits = {
 			modern_armor
 		}
@@ -1045,7 +1049,7 @@ technologies = {
 
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 2 y = @1955 }
+			position = { x = 2 y = 22 }
 		}
 
 		ai_will_do = {
