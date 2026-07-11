@@ -1,0 +1,1962 @@
+﻿l_russian:
+communism:0 "Коммунизм"
+communism_noun:0 "Коммунизм"
+democratic:0 "Демократия"
+democratic_noun:0 "Демократия"
+fascism:0 "Фашизм"
+fascism_noun:0 "Фашизм"
+fascism_desc:0 "Фашистский режим"
+communism_desc:0 "Социалистический режим"
+democratic_desc:0 "Демократический режим"
+conservatism:0 "Консерватизм"
+conservatism_desc:0 "Консерваторы считают, что быстрые изменения идут только во вред обществу; они поддерживают традиционные ценности и выступают за умеренные реформы, иногда ратуя за возврат к старым добрым временам."
+liberalism:0 "Либерализм"
+liberalism_desc:0 "Либерализм, основанный на давней философской традиции уважения личной свободы, считает защиту прав человека основной функцией государства."
+socialism:0 "Социализм"
+socialism_desc:0 "Социал-демократы проповедуют социальное равенство, добиваться которого призывают посредством реформ; по их мнению, общество должно ограничивать крайние проявления капитализма."
+marxism:0 "Марксизм"
+marxism_desc:0 "Марксизм охватывает широкий спектр экономических и исторических воззрений. Политики-марксисты пытаются использовать идеи Маркса в социальной практике. Общее для всех марксистских идеологий - признание классовой борьбы и необходимости перехода к общественной собственности."
+leninism:0 "Ленинизм"
+leninism_desc:0 "Ленинизм - это основанная на марксизме идеология, основными постулатами которой являются построение социалистического государства под предводительством передовой партии и мировая революция с целью свержения капиталистического общества. В самой партии до принятия окончательных решений возможны борьба мнений и споры."
+stalinism:0 "Сталинизм"
+stalinism_desc:0 "Сталинизм можно определить как развитие марксистско-ленинских идей и способ авторитарного правления социалистическим государством, в котором происходят быстрые индустриализация и коллективизация, а также борьба с контрреволюционными элементами."
+anti_revisionism:0 "Антиревизионизм"
+anti_revisionism_desc:0 "Антиревизионизм - реакция на многие идеологии, постулирующие себя преемниками марксизма, и стремление придерживаться ключевых положений изначальной революционной теории. В основном он противостоит включению капиталистических экономических элементов в социалистические государства и определяет себя через их отрицание."
+anarchist_communism:0 "Анархический коммунизм"
+anarchist_communism_desc:0 "Для анархических коммунистов коммунизм - это бесклассовое общество при отсутствии государства. Им не нравится идея переходного социалистического государства, и они ратуют за общество, основанное на добровольных связях и взаимопомощи."
+nazism:0 "Нацизм"
+nazism_desc:0 "Корни нацизма - крайний национализм и идеи о превосходстве немецкой нации. Нацисты призывают к агрессивному расширению границ и к построению тоталитарного государства, все граждане которого объединены под руководством фюрера - лидера с абсолютной властью."
+gen_nazism:0 "Нацизм"
+gen_nazism_desc:0 "Корни национал-социализма — крайний национализм и идеи о расовом превосходстве. Он призывает к агрессивному расширению границ и к построению тоталитарного государства, все граждане которого объединены под руководством лидера с абсолютной властью."
+fascism_ideology:0 "Фашизм"
+fascism_ideology_desc:0 "Фашизм, охватывающий разнообразные ультранационалистические движения, обычно превозносит преданность государству и стремится объединить нацию под руководством сильного лидера."
+falangism:0 "Фалангизм"
+falangism_desc:0 "Фалангизм - авторитарная идеология с чертами фашизма и консерватизма, делающая ставку на национальное и католическое самосознание."
+rexism:0 "Рексизм"
+rexism_desc:0 "Рексизм противопоставляет себя одновременно и либеральным, и коммунистическим идеологиям. Это сугубо консервативное националистическое движение, ратующее за корпоративную экономическую политику. Используя популистскую и авторитарную риторику, постепенно сближается с фашистскими движениями."
+neutrality:0 "Нейтралитет"
+neutrality_noun:0 "Нейтралитет"
+neutrality_desc:0 "Авторитарный режим"
+despotism:0 "Деспотизм"
+despotism_desc:0 "Деспотизм - форма правления, при которой вся абсолютная власть принадлежит одному человеку."
+oligarchism:0 "Олигархия"
+oligarchism_desc:0 "Олигархия - форма правления, при которой абсолютная власть принадлежит небольшой группе людей."
+moderatism:1 "Модератизм"
+moderatism_desc:1 "Модератизм - форма правления, при которой стараются избегать крайне левых и крайне правых взглядов, занимая политически умеренную позицию."
+centrism:1 "Центризм"
+centrism_desc:1 "Центризм - форма правления, при которой стараются принимать разумные решения, отвечающие текущим и будущим запросам нации, не подрывающие доверие общества и служащие общему благу с учетом рисков и контекста этих запросов."
+anarchism:0 "Анархизм"
+anarchism_desc:0 "Анархизм — отторжение всякой власти. Он пропагандирует разделение сообщества на самоуправляемые коллективы внутри единого централизованного государства."
+#BP
+japanese_fascism:0 "Кокка Шуги"
+japanese_fascism_desc:0 "Кокка Шуги, так же известный как национализм Сёва или Японский фашизм. Это движение представляет собой политический синкретизм японских крайне правых политических идеологий, развившихся в течение определенного периода времени после Реставрации Мэйдзи и представляет собой смесь идей, таких как ультранационализм, милитаризм, фашизм и государственный капитализм, которые придвигались рядом политических философов и мыслителей Японии."
+
+# Parties
+#BP
+DNZ_fascism_party:0 "НСНРП - Данциг"
+DNZ_fascism_party_long:0 "Национал-социалистическая немецкая рабочая партия" #https://wiki2.org/en/Social_Democratic_Party_of_the_Free_City_of_Danzig
+DNZ_democratic_party:0 "СДП"
+DNZ_democratic_party_long:0 "Социал-демократическая партия Вольного Города Данцига"
+DNZ_communism_party:0 "НДНП"
+DNZ_communism_party_long:0 "Немецко-данцигская народная партия"
+DNZ_neutrality_party:0 "Партия Центра"
+DNZ_neutrality_party_long:0 "Партия центра Вольного Города Данцига"
+
+RKU_fascism_party:0 "НСНРП"
+RKU_fascism_party_long:0 "Национал-социалистическая немецкая рабочая партия"
+RKU_democratic_party:0 "УНДО"
+RKU_democratic_party_long:0 "Украинское национально-демократическое объединение" #https://wiki2.org/en/Ukrainian_National_Democratic_Alliance
+RKU_communism_party:0 "КП(б)У"
+RKU_communism_party_long:0 "Коммунистическая партия (большевиков) Украины" #https://wiki2.org/en/Communist_Party_of_Ukraine
+RKU_neutrality_party:0 "УСГГ"
+RKU_neutrality_party_long:0 "Украинский союз гетманцев - государственников" #https://rudocs.exdat.com/docs/index-186598.html?page=7
+RKU_oun_b:0 "ОУН (б)"
+RKU_oun_b_long:0 "Организация украинских националистов" #https://wiki2.org/en/Organization_of_Ukrainian_Nationalists
+RKU_oun_m:0 "ОУН (м)"
+RKU_oun_m_long:0 "Организация украинских националистов"
+
+PGG_fascism_party:0 "НСНРП"
+PGG_fascism_party_long:0 "Национал-социалистическая немецкая рабочая партия"
+PGG_democratic_party:0 "АК"
+PGG_democratic_party_long:0 "Армия Крайова" #https://wiki2.org/en/Home_Army
+PGG_communism_party:0 "ГЛ"
+PGG_communism_party_long:0 "Гвардия Людова" #https://wiki2.org/en/Gwardia_Ludowa
+PGG_neutrality_party:0 "НВС"
+PGG_neutrality_party_long:0 "Национальные вооружённые силы" #https://wiki2.org/en/National_Armed_Forces
+
+BRG_fascism_party:0 "НСНРП"
+BRG_fascism_party_long:0 "Национал-социалистическая немецкая рабочая партия Бургундии - клика СС"
+GER_fascism_party_degrelle_clique:0 "НСНРП"
+GER_fascism_party_degrelle_clique_long:0 "Национал-социалистическая немецкая рабочая партия Бургундии - клика Дегреля"
+BRG_democratic_party:0 "БКП"
+BRG_democratic_party_long:0 "Бургундская консервативная партия"
+BRG_communism_party:0 "ОКПБ"
+BRG_communism_party_long:0 "Объединенная коммунистическая партия Бургундии"
+BRG_neutrality_party:0 "ПФТ"
+BRG_neutrality_party_long:0 "Партия тылового фронта"
+
+#Vanilla
+GER_fascism_party:0 "НСНРП"
+GER_fascism_party_long:0 "Национал-социалистическая немецкая рабочая партия" #https://wiki2.org/en/Nazi_Party
+GER_democratic_party:0 "Партия Центра"
+GER_democratic_party_long:0 "Партия Центра" #https://wiki2.org/en/Centre_Party_(Germany)
+GER_communism_party:0 "КПГ"
+GER_communism_party_long:0 "Коммунистическая партия Германии" #https://wiki2.org/en/Communist_Party_of_Germany
+GER_neutrality_party:0 "НННП"
+GER_neutrality_party_long:0 "Немецкая национальная народная партия" #https://wiki2.org/en/German_National_People%27s_Party
+GER_neutrality_party_civil_war:0 "Военное правительство"
+GER_neutrality_party_civil_war_long:0 "Военное правительство"
+GER_neutrality_party_kaiserreich:0 "НННП"
+GER_neutrality_party_kaiserreich_long:0 "Немецкая национальная народная партия"
+
+WGR_fascism_party:0 "СР"
+WGR_fascism_party_long:0 "Социалистическая Рейхспартия" #https://wiki2.org/en/Socialist_Reich_Party
+WGR_democratic_party:0 "ХДС"
+WGR_democratic_party_long:0 "Христианско-демократический союз Германии" #https://wiki2.org/en/Christian_Democratic_Union_of_Germany
+WGR_communism_party:0 "КПГ"
+WGR_communism_party_long:0 "Коммунистическая партия Германии"
+WGR_neutrality_party:0 "НП"
+WGR_neutrality_party_long:0 "Немецкая партия" #https://wiki2.org/en/German_Party_(1947)
+
+DDR_fascism_party:0 "НДПГ"
+DDR_fascism_party_long:0 "Национал-демократическая партия Германии" #https://wiki2.org/en/National_Democratic_Party_of_Germany
+DDR_democratic_party:0 "ХДС"
+DDR_democratic_party_long:0 "Христианско-демократический союз" #https://wiki2.org/en/Christian_Democratic_Union_(East_Germany)
+DDR_communism_party:0 "СЕПГ"
+DDR_communism_party_long:0 "Социалистическая единая партия Германии" #https://wiki2.org/en/Socialist_Unity_Party_of_Germany
+DDR_neutrality_party:0 "ЛДПГ"
+DDR_neutrality_party_long:0 "Либерально-демократическая партия Германии" #https://wiki2.org/en/Liberal_Democratic_Party_of_Germany
+
+POL_fascism_party:0 "НРЛ «Фаланга»"
+POL_fascism_party_long:0 "Национально-радикальный лагерь «Фаланга»" #https://wiki2.org/en/National_Radical_Camp_Falanga
+POL_democratic_party:0 "НП"
+POL_democratic_party_long:0 "Народная партия" #https://wiki2.org/en/People%27s_Party_(Poland)
+POL_communism_party:0 "КПП"
+POL_communism_party_long:0 "Коммунистическая партия Польши" #https://wiki2.org/en/Communist_Party_of_Poland
+POL_neutrality_party:0 "ББСП"
+POL_neutrality_party_long:0 "Беспартийный блок сотрудничества с правительством" #https://wiki2.org/en/Nonpartisan_Bloc_for_Cooperation_with_the_Government
+
+ENG_fascism_party:0 "БСФ"
+ENG_fascism_party_long:0 "Британский союз фашистов" #https://wiki2.org/en/British_Union_of_Fascists
+ENG_democratic_party:0 "Консервативная партия"
+ENG_democratic_party_long:0 "Консервативная и юнионистская партия" #https://wiki2.org/en/Conservative_Party_(UK)
+ENG_communism_party:0 "КПВ"
+ENG_communism_party_long:0 "Коммунистическая партия Великобритании" #https://wiki2.org/en/Communist_Party_of_Great_Britain
+ENG_neutrality_party:0 "Виндзорский дом"
+ENG_neutrality_party_long:0 "Виндзорская династия" #https://wiki2.org/en/House_of_Windsor
+ENG_neutrality_party_kings_party:0 "Партия короля"
+ENG_neutrality_party_kings_party_long:0 "Партия короля"
+ENG_neutrality_party_queens_party:0 "Партия королевы"
+ENG_neutrality_party_queens_party_long:0 "Партия королевы"
+
+ITA_fascism_party:0 "НФП"
+ITA_fascism_party_long:0 "Национальная фашистская партия" #https://wiki2.org/en/National_Fascist_Party
+ITA_democratic_party:0 "ПД"
+ITA_democratic_party_long:0 "Партия действия" #https://wiki2.org/en/Action_Party_(Italy)
+ITA_communism_party:0 "ИКП"
+ITA_communism_party_long:0 "Итальянская коммунистическая партия" #https://wiki2.org/en/Italian_Communist_Party
+ITA_neutrality_party:0 "Савойский дом"
+ITA_neutrality_party_long:0 "Савойская династия" #https://wiki2.org/en/House_of_Savoy
+
+JAP_fascism_party:0 "АПТ" #Тайсэй Ёкусанкай
+JAP_fascism_party_long:0 "Ассоциация помощи трону" ##https://wiki2.org/en/Imperial_Rule_Assistance_Association Founded in 1940 but still
+JAP_democratic_party:0 "КДП" #Риккэн Минсэйто
+JAP_democratic_party_long:0 "Конституционно-демократическая партия" #https://en.wikipedia.org/wiki/Constitutional_Democratic_Party_(Japan)
+JAP_communism_party:0 "КПЯ" #Нихон Кё-Санто
+JAP_communism_party_long:0 "Коммунистическая партия Японии" #https://wiki2.org/en/Japanese_Communist_Party
+JAP_neutrality_party:0 "ПДКП" #Риккэн Сэйюкай
+JAP_neutrality_party_long:0 "Партия друзей конституционного правления" #https://wiki2.org/en/Rikken_Seiyūkai
+JAP_neutrality_party_kodoha:0 "ФИП" #Кодоха
+JAP_neutrality_party_kodoha_long:0 "Фракция императорского пути" #https://wiki2.org/en/Imperial_Way_Faction
+
+USA_fascism_party:0 "Серебряный легион Америки"
+USA_fascism_party_long:0 "Серебряный легион Америки" #https://wiki2.org/en/Silver_Legion_of_America
+USA_democratic_party:0 "Демократическая партия"
+USA_democratic_party_long:0 "Демократическая партия" #https://wiki2.org/en/Democratic_Party_(United_States)
+USA_republican_party:0 "Республиканская партия"
+USA_republican_party_long:0 "Республиканская партия" #https://wiki2.org/en/Republican_Party_(United_States)
+USA_communism_party:0 "КП США"
+USA_communism_party_long:0 "Коммунистическая партия Соединённых Штатов Америки" #https://en.wikipedia.org/wiki/Communist_Party_USA
+USA_neutrality_party:0 "ВС США"
+USA_neutrality_party_long:0 "Вооружённые силы Соединённых Штатов Америки"
+
+USB_fascism_party:0 "Серебряный легион Америки"
+USB_fascism_party_long:0 "Серебряный легион Америки"
+USB_democratic_party:0 "Демократическая партия"
+USB_democratic_party_long:0 "Демократическая партия"
+USB_communism_party:0 "КП США"
+USB_communism_party_long:0 "Коммунистическая партия Соединённых Штатов Америки"
+USB_neutrality_party:0 "КОА"
+USB_neutrality_party_long:0 "Комитет освобождения Америки"
+
+CSA_fascism_party:0 "Серебряный легион Америки"
+CSA_fascism_party_long:0 "Серебряный легион Америки"
+CSA_democratic_party:0 "Республиканская партия"
+CSA_democratic_party_long:0 "Республиканская партия"
+CSA_communism_party:0 "КП КША"
+CSA_communism_party_long:0 "Коммунистическая партия Конфедеративных Штатов Америки"
+CSA_neutrality_party:0 "ВС КША"
+CSA_neutrality_party_long:0 "Вооружённые силы Конфедеративных Штатов Америки"
+
+FRA_fascism_party:0 "ФП"
+FRA_fascism_party_long:0 "Франсистская партия" #https://wiki2.org/en/Mouvement_Franciste
+FRA_democratic_party:0 "РП"
+FRA_democratic_party_long:0 "Республиканская, радикальная и радикально-социалистическая партия" #https://wiki2.org/en/Radical_Party_(France)
+FRA_communism_party:0 "ФКП"
+FRA_communism_party_long:0 "Французская коммунистическая партия" #https://wiki2.org/en/French_Communist_Party
+FRA_neutrality_party:0 "ФД"
+FRA_neutrality_party_long:0 "Французское действие" #https://wiki2.org/en/Action_Française
+FRA_orleanist_party_long:0 "ОП"
+FRA_orleanist_party:0 "Орлеанская партия" #https://wiki2.org/en/Orléanist
+FRA_legitimist_party_long:0 "Легитимисты"
+FRA_legitimist_party:0 "Легитимисты" #https://wiki2.org/en/Legitimists
+FRA_bonepartist_party_long:0 "БС"
+FRA_bonepartist_party:0 "Бонапартистское собрание" #https://wiki2.org/en/Bonapartism
+
+VIC_fascism_party:0 "ННО"
+VIC_fascism_party_long:0 "Национально-народное объединение" #https://wiki2.org/en/Rassemblement_National_Populaire Another candidate is the Parti Populaire Français or Mouvement Franciste - anothers collaborationist parties in Vichy France
+VIC_democratic_party:0 "РП"
+VIC_democratic_party_long:0 "Республиканская, радикальная и радикально-социалистическая партия"
+VIC_communism_party:0 "ФКП"
+VIC_communism_party_long:0 "Французская коммунистическая партия"
+VIC_neutrality_party:0 "НР"
+VIC_neutrality_party_long:0 "Национальная революция" #https://wiki2.org/en/Ordre_Nouveau_(1940s)
+
+SOV_fascism_party:0 "РФП"
+SOV_fascism_party_long:0 "Российская фашистская партия" #https://wiki2.org/en/Russian_Fascist_Party
+SOV_democratic_party:0 "ПСР"
+SOV_democratic_party_long:0 "Партия социалистов-революционеров" #https://wiki2.org/en/Socialist_Revolutionary_Party
+SOV_communism_party:0 "ВКП(б)"
+SOV_communism_party_long:0 "Всесоюзная коммунистическая партия (большевиков)" #https://wiki2.org/en/Communist_Party_of_the_Soviet_Union
+SOV_neutrality_party:0 "РОВС"
+SOV_neutrality_party_long:0 "Русский общевоинский союз \nRussian All-Military Union" #https://wiki2.org/en/Russian_All-Military_Union
+
+AUS_fascism_party:0 "ННСРП"
+AUS_fascism_party_long:0 "Немецкая национал-социалистическая рабочая партия" #https://wiki2.org/en/Austrian_Nazism
+AUS_democratic_party:0 "СДПА"
+AUS_democratic_party_long:0 "Социал-демократическая партия Австрии" #https://wiki2.org/en/Social_Democratic_Party_of_Austria
+AUS_communism_party:0 "КПА"
+AUS_communism_party_long:0 "Коммунистическая партия Австрии" #https://wiki2.org/en/Communist_Party_of_Austria
+AUS_neutrality_party:0 "ОФ"
+AUS_neutrality_party_long:0 "Отечественный фронт" #https://wiki2.org/en/Fatherland_Front_(Austria)
+
+CHI_fascism_party:0 "ОПТНР"
+CHI_fascism_party_long:0 "Общество практики трёх народных принципов" #https://wiki2.org/en/Blue_Shirts_Society
+CHI_democratic_party:0 "КДЛ"
+CHI_democratic_party_long:0 "Китайская демократическая лига" #https://wiki2.org/en/China_Democratic_League
+CHI_communism_party:0 "КПК"
+CHI_communism_party_long:0 "Коммунистическая партия Китая" #https://wiki2.org/en/Chinese_Communist_Party
+CHI_neutrality_party:0 "КНП"
+CHI_neutrality_party_long:0 "Китайская национальная партия" #https://wiki2.org/en/Kuomintang
+
+PRC_fascism_party:0 "КМП"
+PRC_fascism_party_long:0 "Китайская молодёжная партия" #https://wiki2.org/en/Chinese_Youth_Party
+PRC_democratic_party:0 "КНСП"
+PRC_democratic_party_long:0 "Китайская национал-социалистическая партия" #https://wiki2.org/en/Chinese_National_Socialist_Party
+PRC_communism_party:0 "КПК"
+PRC_communism_party_long:0 "Коммунистическая партия Китая"
+PRC_neutrality_party:0 "РКГ"
+PRC_neutrality_party_long:0 "Революционный комитет Гоминьдана" #https://wiki2.org/en/Revolutionary_Committee_of_the_Chinese_Kuomintang
+
+XSM_fascism_party:0 "ОПТНР"
+XSM_fascism_party_long:0 "Общество практики трёх народных принципов"
+XSM_democratic_party:0 "КДЛ"
+XSM_democratic_party_long:0 "Китайская демократическая лига"
+XSM_communism_party:0 "КПК"
+XSM_communism_party_long:0 "Коммунистическая партия Китая"
+XSM_neutrality_party:0 "КНП"
+XSM_neutrality_party_long:0 "Китайская национальная партия"
+
+SIK_fascism_party:0 "ОПТНР"
+SIK_fascism_party_long:0 "Общество практики трёх народных принципов"
+SIK_democratic_party:0 "КДЛ"
+SIK_democratic_party_long:0 "Китайская демократическая лига"
+SIK_communism_party:0 "НАИА"
+SIK_communism_party_long:0 "Народная антиимпериалистическая ассоциация" #https://wiki2.org/en/People%27s_Anti-Imperialist_Association
+SIK_neutrality_party:0 "КНП"
+SIK_neutrality_party_long:0 "Китайская национальная партия"
+
+SHX_fascism_party:0 "ОПТНР"
+SHX_fascism_party_long:0 "Общество практики трёх народных принципов"
+SHX_democratic_party:0 "КДЛ"
+SHX_democratic_party_long:0 "Китайская демократическая лига"
+SHX_communism_party:0 "КПК"
+SHX_communism_party_long:0 "Коммунистическая партия Китая"
+SHX_neutrality_party:0 "КНП"
+SHX_neutrality_party_long:0 "Китайская национальная партия"
+
+GXC_fascism_party:0 "ОПТНР"
+GXC_fascism_party_long:0 "Общество практики трёх народных принципов"
+GXC_communism_party:0 "КПК"
+GXC_communism_party_long:0 "Коммунистическая партия Китая"
+GXC_democratic_party:0 "КДЛ"
+GXC_democratic_party_long:0 "Китайская демократическая лига"
+GXC_neutrality_party:0 "КНП"
+GXC_neutrality_party_long:0 "Китайская национальная партия"
+
+YUN_fascism_party:0 "ОПТНР"
+YUN_fascism_party_long:0 "Общество практики трёх народных принципов"
+YUN_democratic_party:0 "КДЛ"
+YUN_democratic_party_long:0 "Китайская демократическая лига"
+YUN_communism_party:0 "КПК"
+YUN_communism_party_long:0 "Коммунистическая партия Китая"
+YUN_neutrality_party:0 "КНП"
+YUN_neutrality_party_long:0 "Китайская национальная партия"
+
+TIB_fascism_party:0 "ТНК"
+TIB_fascism_party_long:0 "Тибетский национальный конгресс" #https://wiki2.org/en/Tibetan_National_Congress founded in 2013, but i can't to find another candidate
+TIB_democratic_party:0 "ПРЗП"
+TIB_democratic_party_long:0 "Партия реформ Западного Тибета" #https://wiki2.org/en/Tibet_Improvement_Party
+TIB_communism_party:0 "ТКП"
+TIB_communism_party_long:0 "Тибетская коммунистическая партия" #https://wiki2.org/en/Tibetan_Communist_Party
+TIB_neutrality_party:0 "Ретинг Ринпоче"
+TIB_neutrality_party_long:0 "Ретинг Ринпоче" #https://wiki2.org/en/Reting_Rinpoche
+
+MEN_fascism_party:0 "МОАП"
+MEN_fascism_party_long:0 "Монгольское объединенное автономное правительство" #https://zh.wikipedia.org/wiki/蒙疆联合委员会
+MEN_democratic_party:0 "ДП"
+MEN_democratic_party_long:0 "Демократическая партия Внутренней Монголии"
+MEN_communism_party:0 "МСП"
+MEN_communism_party_long:0 "Монгольская социалистическая партия" #https://wiki2.org/en/Inner_Mongolian_People%27s_Republic
+MEN_neutrality_party:0 "НПВМ"
+MEN_neutrality_party_long:0 "Народная партия Внутренней Монголии" #https://wiki2.org/en/Inner_Mongolian_People%27s_Party #founded in 1997, but i can't to find another candidate
+
+MAN_fascism_party:0 "Общество Согласия"
+MAN_fascism_party_long:0 "Общество Согласия Маньчжоу-го" #https://wiki2.org/en/Concordia_Association
+MAN_democratic_party:0 "СДП"
+MAN_democratic_party_long:0 "Маньчжурская социал-демократическая партия" #https://conworld.fandom.com/wiki/Social_Democratic_Party_(Manchuria) It's a made-up party, but why not? There were no other candidates
+MAN_communism_party:0 "КПМ"
+MAN_communism_party_long:0 "Коммунистическая партия Маньчжурии" #https://conworld.fandom.com/wiki/Communist_Party_of_Manchuria same as democrats
+MAN_neutrality_party:0 "ОЛД"
+MAN_neutrality_party_long:0 "Общество Лазурного Дракона" #https://wiki2.org/en/Qing_dynasty, https://conworld.fandom.com/wiki/Qinglonghui same as democrats and communists
+
+SPR_fascism_party:1 "ИКНП"
+SPR_fascism_party_long:0 "Испанская конфедерация независимых правых" #https://wiki2.org/en/CEDA
+SPR_fascism_falange_party:0 "ИФ и СНСН"
+SPR_fascism_falange_party_long:0 "Испанская фаланга и Совет национал-синдикалистского наступления" #https://wiki2.org/en/Falange_Española_de_las_JONS
+SPR_fascism_francoist_party:0 "ИФТ и СНСН"
+SPR_fascism_francoist_party_long:0 "Испанская фаланга традиционалистов и Совет национал-синдикалистского наступления" #https://wiki2.org/en/FET_y_de_las_JONS
+SPR_democratic_party:1 "ИСРП"
+SPR_democratic_party_long:1 "Испанская социалистическая рабочая партия" #https://wiki2.org/en/Spanish_Socialist_Workers%27_Party
+SPR_communism_party:0 "КПИ"
+SPR_communism_party_long:0 "Коммунистическая партия Испании" #https://wiki2.org/en/Communist_Party_of_Spain
+SPR_communism_independent_party:0 "РПМО"
+SPR_communism_independent_party_long:0 "Рабочая партия марксистского объединения" #https://wiki2.org/en/POUM
+SPR_neutrality_party:1 "ТО"
+SPR_neutrality_party_long:1 "Традиционалистская община" #https://wiki2.org/en/Traditionalist_Communion
+SPR_neutrality_anarchism_party:0 "НКТ/ФАИ"
+SPR_neutrality_anarchism_party_long:0 "Национальная конфедерация труда/Федерация анархистов Иберии" #https://wiki2.org/en/Confederación_Nacional_del_Trabajo, https://wiki2.org/en/Federación_Anarquista_Ibérica
+SPR_neutrality_military_junta_party:0 "Военная хунта"
+SPR_neutrality_military_junta_party_long:0 "Военная хунта"
+
+POR_fascism_party:0 "ДНС"
+POR_fascism_party_long:0 "Движение национал-синдикалистов" #https://wiki2.org/en/National_Syndicalists_(Portugal)
+POR_democratic_party:0 "АРС"
+POR_democratic_party_long:0 "Альянс республиканцев и социалистов" #https://pt.wikipedia.org/wiki/Aliança_Republicana_e_Socialista
+POR_communism_party:0 "КПП"
+POR_communism_party_long:0 "Коммунистическая партия Португалии" #https://wiki2.org/en/Portuguese_Communist_Party
+POR_communism2_party:0 "НФ"
+POR_communism2_party_long:0 "Народный фронт" #https://wiki2.org/en/Popular_Front_(Spain)
+POR_neutrality_party:0 "НС"
+POR_neutrality_party_long:0 "Национальный союз" #https://wiki2.org/en/National_Union_(Portugal)
+POR_monarchy_party:0 "ПМД"
+POR_monarchy_party_long:0 "Португальское монархическое дело" #https://pt.wikipedia.org/wiki/Causa_Monárquica
+
+GRE_fascism_party:0 "ГНСП"
+GRE_fascism_party_long:0 "Греческая национал-социалистическая партия" #https://wiki2.org/en/Greek_National_Socialist_Party
+GRE_democratic_party:0 "Либеральная партия"
+GRE_democratic_party_long:0 "Либеральная партия" #https://wiki2.org/en/Liberal_Party_(Greece)
+GRE_communism_party:0 "КПГ"
+GRE_communism_party_long:0 "Коммунистическая партия Греции" #https://wiki2.org/en/Communist_Party_of_Greece
+GRE_neutrality_party:0 "НП"
+GRE_neutrality_party_long:0 "Народная партия" #https://wiki2.org/en/People%27s_Party_(Greece)
+GRE_metaxas_party:0 "Метакса"
+GRE_metaxas_party_long:0 "Режим Метакса" #https://wiki2.org/en/Metaxism
+GRE_monarchist_party:0 "ККК"
+GRE_monarchist_party_long:0 "Королевский консультационный комитет"
+GRE_byzantine_party:0 "НСГ"
+GRE_byzantine_party_long:0 "Национальный союз Греции" #https://wiki2.org/en/National_Union_of_Greece
+
+LIT_fascism_party:0 "«Железный волк»"
+LIT_fascism_party_long:0 "«Железный волк»" #https://wiki2.org/en/Iron_Wolf_(organization)
+LIT_democratic_party:0 "СДПЛ"
+LIT_democratic_party_long:0 "Социал-демократическая партия Литвы" #https://wiki2.org/en/Social_Democratic_Party_of_Lithuania
+LIT_communism_party:0 "КПЛ"
+LIT_communism_party_long:0 "Коммунистическая партия Литвы" #https://wiki2.org/en/Communist_Party_of_Lithuania
+LIT_neutrality_party:0 "СЛН"
+LIT_neutrality_party_long:0 "Союз литовских националистов" #https://wiki2.org/en/Lithuanian_Nationalist_Union
+
+LAT_fascism_party:0 "«Громовой крест»"
+LAT_fascism_party_long:0 "«Громовой крест»" #https://wiki2.org/en/Pērkonkrusts
+LAT_democratic_party:0 "ЛСДРП"
+LAT_democratic_party_long:0 "Латвийская социал-демократическая рабочая партия" #https://wiki2.org/en/Latvian_Social_Democratic_Workers%27_Party
+LAT_communism_party:0 "КПЛ"
+LAT_communism_party_long:0 "Коммунистическая партия Латвии" #https://wiki2.org/en/Communist_Party_of_Latvia
+LAT_neutrality_party:0 "Диктатура Улманиса"
+LAT_neutrality_party_long:0 "Диктатура Улманиса" #https://lv.wiki2.org/wiki/Autoritārais_Kārļa_Ulmaņa_režīms
+
+EST_fascism_party:0 "«Вапсы»"
+EST_fascism_party_long:0 "Лига ветеранов Освободительной войны" #https://wiki2.org/en/Vaps_Movement
+EST_democratic_party:0 "НЦП"
+EST_democratic_party_long:0 "Национальная центристская партия" #https://wiki2.org/en/National_Centre_Party_(Estonia)
+EST_communism_party:0 "КПЭ"
+EST_communism_party_long:0 "Коммунистическая партия Эстонии" #https://wiki2.org/en/Communist_Party_of_Estonia
+EST_neutrality_party:0 "Патриотическая лига"
+EST_neutrality_party_long:0 "Национальный фронт за реализацию Конституции" #https://wiki2.org/en/Patriotic_League_(Estonia), https://wiki2.org/en/National_Front_for_the_Implementation_of_the_Constitution
+
+IRQ_fascism_party:0 "Золотой квадрат"
+IRQ_fascism_party_long:0 "Золотой квадрат" #https://wiki2.org/en/Golden_Square_(Iraq)
+IRQ_democratic_party:0 "ПНБ"
+IRQ_democratic_party_long:0 "Партия национального братства" #https://wiki2.org/en/Party_of_National_Brotherhood
+IRQ_communism_party:0 "ИКП"
+IRQ_communism_party_long:0 "Иракская коммунистическая партия" #https://wiki2.org/en/Iraqi_Communist_Party
+IRQ_neutrality_party:1 "Дом Хашимитов"
+IRQ_neutrality_party_long:0 "Династия Хашимитов" #https://wiki2.org/en/Hashemites
+
+SWE_fascism_party:0 "НСРП"
+SWE_fascism_party_long:0 "Национал-социалистическая рабочая партия" #https://wiki2.org/en/National_Socialist_Workers%27_Party_(Sweden)
+SWE_communism_party:0 "КПШ"
+SWE_communism_party_long:0 "Коммунистическая партия Швеции" #https://wiki2.org/en/Communist_Party_of_Sweden
+SWE_democratic_party:0 "СДПШ"
+SWE_democratic_party_long:0 "Социал-демократическая партия Швеции" #https://wiki2.org/en/Swedish_Social_Democratic_Party
+SWE_neutrality_party:0 "ФС"
+SWE_neutrality_party_long:0 "Фермерский союз" #https://wiki2.org/en/Centre_Party_(Sweden)
+
+NOR_fascism_party:0 "НС"
+NOR_fascism_party_long:0 "Национальный союз" #https://wiki2.org/en/Nasjonal_Samling
+NOR_democratic_party:0 "НРП"
+NOR_democratic_party_long:0 "Норвежская рабочая партия" #https://wiki2.org/en/Labour_Party_(Norway)
+NOR_communism_party:0 "КПН"
+NOR_communism_party_long:0 "Коммунистическая партия Норвегии" #https://wiki2.org/en/Communist_Party_of_Norway
+NOR_neutrality_party:0 "ЛП"
+NOR_neutrality_party_long:0 "Либеральная партия" #https://wiki2.org/en/Liberal_Party_(Norway)
+
+DEN_fascism_party:0 "НСРПД"
+DEN_fascism_party_long:0 "Национал-социалистическая рабочая партия Дании" #https://wiki2.org/en/National_Socialist_Workers%27_Party_of_Denmark
+DEN_democratic_party:0 "СДП"
+DEN_democratic_party_long:0 "Социал-демократическая партия" #https://wiki2.org/en/Social_Democrats_(Denmark)
+DEN_communism_party:0 "КПД"
+DEN_communism_party_long:0 "Коммунистическая партия Дании" #https://wiki2.org/en/Communist_Party_of_Denmark
+DEN_neutrality_party:0 "Радикальная Венстре"
+DEN_neutrality_party_long:0 "Социал-либеральная партия Дании" #https://wiki2.org/en/Danish_Social_Liberal_Party
+
+FIN_fascism_party:0 "ПНД"
+FIN_fascism_party_long:0 "Патриотическое народное движение" #https://en.wikipedia.org/wiki/Patriotic_People%27s_Movement
+FIN_democratic_party:0 "СДПФ"
+FIN_democratic_party_long:0 "Социал-демократическая партия Финляндии" #https://wiki2.org/en/Social_Democratic_Party_of_Finland
+FIN_communism_party:0 "КПФ"
+FIN_communism_party_long:0 "Коммунистическая партия Финляндии" #https://wiki2.org/en/Communist_Party_of_Finland
+FIN_neutrality_party:0 "АС"
+FIN_neutrality_party_long:0 "Аграрный союз" #https://wiki2.org/en/Centre_Party_(Finland)
+
+CAN_fascism_party:0 "ОСХП"
+CAN_fascism_party_long:0 "Общенациональная социал-христианская партия" #https://wiki2.org/en/National_Unity_Party_(Canada)
+CAN_democratic_party:0 "ЛПК"
+CAN_democratic_party_long:0 "Либеральная партия Канады" #https://wiki2.org/en/Liberal_Party_of_Canada
+CAN_communism_party:0 "КПК"
+CAN_communism_party_long:0 "Коммунистическая партия Канады" #https://wiki2.org/en/Communist_Party_of_Canada
+CAN_neutrality_party:0 "КФС"
+CAN_neutrality_party_long:0 "Кооперативная Федерация Содружества (Фермерско-Трудовая-Социалистическая)" #https://wiki2.org/en/Co-operative_Commonwealth_Federation
+
+AST_fascism_party:0 "Центральная партия"
+AST_fascism_party_long:0 "Центральная партия" #https://wiki2.org/en/Centre_Party_(New_South_Wales)
+AST_democratic_party:0 "АЛП"
+AST_democratic_party_long:0 "Австралийская лейбористская партия" #https://wiki2.org/en/Australian_Labor_Party
+AST_communism_party:0 "КПА"
+AST_communism_party_long:0 "Коммунистическая партия Австралии" #https://wiki2.org/en/Communist_Party_of_Australia
+AST_neutrality_party:0 "АПА"
+AST_neutrality_party_long:0 "Аграрная партия Австралии" #https://wiki2.org/en/National_Party_of_Australia
+
+NZL_fascism_party:0 "ЛНЗ"
+NZL_fascism_party_long:0 "Легион Новой Зеландии" #https://wiki2.org/en/New_Zealand_Legion
+NZL_democratic_party:0 "Лейбористы"
+NZL_democratic_party_long:0 "Лейбористская партия Новой Зеландии" #https://wiki2.org/en/New_Zealand_Labour_Party
+NZL_communism_party:0 "КПНЗ"
+NZL_communism_party_long:0 "Коммунистическая партия Новой Зеландии" #https://wiki2.org/en/Communist_Party_of_New_Zealand
+NZL_neutrality_party:0 "Националисты"
+NZL_neutrality_party_long:0 "Национальная партия Новой Зеландии" #https://wiki2.org/en/New_Zealand_National_Party
+
+SAF_fascism_party:0 "ОНП"
+SAF_fascism_party_long:0 "Очищенная национальная партия" #https://wiki2.org/en/Purified_National_Party
+SAF_democratic_party:0 "Объединенная партия"
+SAF_democratic_party_long:0 "Объединенная Южноафриканская национальная партия" #https://wiki2.org/en/United_Party_(South_Africa)
+SAF_communism_party:0 "КПЮА"
+SAF_communism_party_long:0 "Коммунистическая партия Южной Африки" #https://wiki2.org/en/United_Party_(South_Africa)
+SAF_neutrality_party:0 "АНК"
+SAF_neutrality_party_long:0 "Африканский национальный конгресс" #https://wiki2.org/en/African_National_Congress
+
+RAJ_fascism_party:0 "Всеиндийская ассамблея"
+RAJ_fascism_party_long:0 "Всеиндийская ассамблея индуистов" #https://wiki2.org/en/Hindu_Mahasabha
+RAJ_democratic_party:0 "ИНК"
+RAJ_democratic_party_long:0 "Индийский национальный конгресс" #https://wiki2.org/en/Indian_National_Congress
+RAJ_communism_party:0 "КПИ"
+RAJ_communism_party_long:0 "Коммунистическая партия Индии" #https://wiki2.org/en/Communist_Party_of_India
+RAJ_neutrality_party:0 "ИЗС"
+RAJ_neutrality_party_long:0 "Имперский законодательный совет" #https://wiki2.org/en/Imperial_Legislative_Council
+
+MEX_fascism_party:0 "НСС"
+MEX_fascism_party_long:0 "Национальный синархистский союз" #https://wiki2.org/en/National_Synarchist_Union
+MEX_democratic_party:0 "ПАД"
+MEX_democratic_party_long:0 "Партия национального действия" #https://wiki2.org/en/National_Action_Party_(Mexico)
+MEX_communism_party:0 "МКП"
+MEX_communism_party_long:0 "Мексиканская коммунистическая партия" #https://wiki2.org/en/Mexican_Communist_Party
+MEX_neutrality_party:0 "НРП"
+MEX_neutrality_party_long:0 "Национально-революционная партия" #https://wiki2.org/en/Institutional_Revolutionary_Party
+
+ARG_fascism_party:0 "НФС"
+ARG_fascism_party_long:0 "Национальный фашистский союз" #https://wiki2.org/en/National_Fascist_Union_(Argentina)
+ARG_democratic_party:0 "ГРС"
+ARG_democratic_party_long:0 "Гражданский радикальный союз" #https://wiki2.org/en/Radical_Civic_Union
+ARG_communism_party:0 "КП"
+ARG_communism_party_long:0 "Коммунистическая партия Аргентины" #https://wiki2.org/en/Communist_Party_of_Argentina
+ARG_neutrality_party:0 "Конкорданс"
+ARG_neutrality_party_long:0 "Конкорданс" #https://wiki2.org/en/Concordancia_(Argentina)
+
+BRA_fascism_party:1 "БИД"
+BRA_fascism_party_long:1 "Бразильское интегралистское действие" #https://www.youtube.com/watch?v=doXbrFbffmw
+BRA_democratic_party:1 "ДСБ"
+BRA_democratic_party_long:1 "Демократический союз Бразилии" #https://pt.wikipedia.org/wiki/União_Democrática_Brasileira
+BRA_communism_party:1 "БКП"
+BRA_communism_party_long:1 "Бразильская коммунистическая партия" #https://wiki2.org/en/Brazilian_Communist_Party
+BRA_neutrality_party:0 "Новое государство"
+BRA_neutrality_party_long:0 "Новое государство" #https://wiki2.org/en/Estado_Novo_(Brazil)
+BRA_monarchy_party:0 "БПИД"
+BRA_monarchy_party_long:0 "Бразильское патриановистское имперское движение" #https://fr.wikipedia.org/wiki/Ação_Imperial_Patrianovista_Brasileira, https://wiki2.org/en/Monarchism_in_Brazil
+BRA_antimonarchist_coalition:0 "БАМК"
+BRA_antimonarchist_coalition_long:0 "Бразильская анти-монархическая коалиция"
+
+TUR_fascism_party:0 "Национальная партия"
+TUR_fascism_party_long:0 "Национальная партия" #https://wiki2.org/en/Nation_Party_(Turkey,_1948) #Nationalist party founded in 1948, unsure why Cazmak is fascist leader
+TUR_democratic_party:0 "НГ"
+TUR_democratic_party_long:0 "Независимая партия" #https://wiki2.org/en/Independent_Group_(Turkey)
+TUR_democratic_party_proto_islamist:0 "ТП"
+TUR_democratic_party_proto_islamist_long:0 "Традиционалистская партия"
+TUR_democratic_party_islamist:0 "ДП"
+TUR_democratic_party_islamist_long:0 "Демократическая партия" #https://wiki2.org/en/Democrat_Party_(Turkey,_1946–61)
+TUR_communism_party:0 "КПТ"
+TUR_communism_party_long:0 "Коммунистическая партия Турции" #https://wiki2.org/en/Communist_Party_of_Turkey_(historical)
+TUR_cakmak_party:0 "Режим Чакмака"
+TUR_cakmak_party_long:0 "Режим Чакмака" #https://wiki2.org/en/Fevzi_Çakmak
+TUR_neutrality_party:0 "НРП"
+TUR_neutrality_party_long:0 "Народно-республиканская партия" #https://wiki2.org/en/Republican_People%27s_Party
+TUR_sultanate_precursor_party_long:0 "Временное правительство"
+TUR_sultanate_party:0 "ОГО"
+TUR_sultanate_party_long:0 "Османская государственная организация" #https://wiki2.org/en/State_organisation_of_the_Ottoman_Empire
+
+HUN_fascism_party:0 "ПВЖ"
+HUN_fascism_party_long:0 "Партия венгерской жизни" #https://wiki2.org/en/Party_of_Hungarian_Life this is the same party what in neutrality but it was renamed in 1939. Use it becasue it is the Horthy Party and he is a neutral/fascist in hoi4
+HUN_arrow_cross_party:0 "ПСС"
+HUN_arrow_cross_party_long:0 "Партия скрещённых стрел" #https://wiki2.org/en/Arrow_Cross_Party
+HUN_democratic_party:0 "СДП"
+HUN_democratic_party_long:0 "Социал-демократическая партия" #https://wiki2.org/en/Social_Democratic_Party_of_Hungary
+HUN_communism_party:0 "ПКВ"
+HUN_communism_party_long:0 "Партия коммунистов Венгрии" #https://wiki2.org/en/Hungarian_Communist_Party
+HUN_neutrality_party:0 "ПНЕ"
+HUN_neutrality_party_long:0 "Партия национального единства" #https://wiki2.org/en/Party_of_Hungarian_Life
+HUN_legitimists_party:0 "Роялисты"
+HUN_legitimists_party_long:0 "Роялисты" #https://wiki2.org/en/Charles_IV_of_Hungary%27s_attempts_to_retake_the_throne
+
+ROM_fascism_party:1 "НКП"
+ROM_fascism_party_long:1 "Национальная христианская партия" #https://wiki2.org/en/National_Christian_Party
+ROM_fascism_party2:0 "ВдО"
+ROM_fascism_party2_long:0 "Партия «Всё для Отечества»" #https://wiki2.org/en/Iron_Guard
+ROM_democratic_party:0 "НЛП"
+ROM_democratic_party_long:0 "Национальная либеральная партия" #https://wiki2.org/en/National_Liberal_Party_(Romania)
+ROM_communism_party:0 "РКП"
+ROM_communism_party_long:0 "Румынская коммунистическая партия" #https://wiki2.org/en/Romanian_Communist_Party
+ROM_neutrality_party:0 "ФНВ"
+ROM_neutrality_party_long:0 "Фронт национального возрождения" #https://wiki2.org/en/National_Renaissance_Front
+
+YUG_fascism_party:0 "ЮНД «Збор»"
+YUG_fascism_party_long:0 "Югославское народное движение «Збор»" #https://wiki2.org/en/Yugoslav_National_Movement 
+### I have no idea why the Paradoxes made Milan Stojadinović the leader of the fascists, if he was the chairman of the ruling Radical Party since 1934. Yes, their was also fascists/para-fascists, but in hoi4 Paradoxes also made Yugoslavia neutral! After that I have to make Radical Union neutrals. At least there is another candidate for the fascist party... ###
+YUG_democratic_party:0 "Демократическая партия"
+YUG_democratic_party_long:0 "Югославская демократическая партия" #https://wiki2.org/en/Democratic_Party_(Yugoslavia)
+YUG_communism_party:0 "КПЮ"
+YUG_communism_party_long:0 "Коммунистическая партия Югославии" #https://wiki2.org/en/Communist_Party_of_Yugoslavia
+YUG_neutrality_party:0 "ЮРС"
+YUG_neutrality_party_long:0 "Югославский радикальный союз" #https://wiki2.org/en/Yugoslav_Radical_Union 
+YUG_kardocevik:0 "Династия Карагеоргиевичей"
+YUG_peters_loyalists:0 "Лоялисты Петра"
+
+SER_fascism_party:1 "ПНС"
+SER_fascism_party_long:1 "Правительство национального спасения" #https://wiki2.org/en/Government_of_National_Salvation
+SER_democratic_party:0 "Демократическая партия"
+SER_democratic_party_long:0 "Демократическая партия Сербии" #https://wiki2.org/en/Democratic_Party_(Serbia)
+SER_communism_party:0 "КПС"
+SER_communism_party_long:0 "Коммунистическая партия Сербии" #https://wiki2.org/en/Communist_Party_(Serbia)  
+SER_neutrality_party:0 "Дом Карагеоргиевичей"
+SER_neutrality_party_long:0 "Династия Карагеоргиевичей"
+
+BUL_national_social_movement_party:0 "НСД"
+BUL_national_social_movement_party_long:0 "Народное социальное движение" #https://wiki2.org/en/National_Social_Movement_(Bulgaria)
+BUL_fascism_party:0 "СБНЛ"
+BUL_fascism_party_long:0 "Союз болгарских национальных легионов" #https://wiki2.org/en/Union_of_Bulgarian_National_Legions
+BUL_democratic_party:1 "БЗНС"
+BUL_democratic_party_long:1 "Болгарский земледельческий народный союз" #https://wiki2.org/en/Bulgarian_Agrarian_National_Union
+BUL_democratic_party_bftb:1 "ДП"
+BUL_democratic_party_bftb_long:1 "Демократическая партия" #https://wiki2.org/en/Democratic_Party_(Bulgaria)
+BUL_communism_party:0 "КПБ"
+BUL_communism_party_long:0 "Коммунистическая партия Болгарии" #https://wiki2.org/en/Bulgarian_Communist_Party
+BUL_neutrality_party:0 "Царское Правительство"
+BUL_neutrality_party_long:0 "Царское Правительство"
+BUL_ferdinand_loyalists_party:0 "Царское Правительство"
+BUL_ferdinand_loyalists_party_long:0 "Царское Правительство"
+BUL_zveno_bulgaria_neutrality_party:0 "Звено"
+BUL_zveno_bulgaria_neutrality_party_long:0 "Звено" #https://wiki2.org/en/Zveno
+BUL_fatherland_front_party:0 "ОФ"
+BUL_fatherland_front_party_long:0 "Отечественный фронт" #https://wiki2.org/en/Bulgarian_Fatherland_Front
+
+HOL_fascism_party:0 "НСД"
+HOL_fascism_party_long:1 "Национал-социалистическое движение Нидерландов" #https://wiki2.org/en/National_Socialist_Movement_in_the_Netherlands
+HOL_democratic_party:1 "АРП"
+HOL_democratic_party_long:1 "Антиреволюционная партия" #https://wiki2.org/en/Anti-Revolutionary_Party
+HOL_communism_party:0 "КПН"
+HOL_communism_party_long:0 "Коммунистическая партия Нидерландов" #https://wiki2.org/en/Communist_Party_of_the_Netherlands
+HOL_neutrality_party:1 "ЛГП"
+HOL_neutrality_party_long:1 "Либеральная государственная партия" #https://wiki2.org/en/Liberal_State_Party
+HOL_CHU_party:0 "ХИС"
+HOL_CHU_party_long:0 "Христианский исторический союз" #https://wiki2.org/en/Christian_Historical_Union
+
+BEL_fascism_party:0 "Рекс"
+BEL_fascism_party_long:0 "Рексистская партия"
+BEL_democratic_party:0 "КБ"
+BEL_democratic_party_long:0 "Католический блок" #https://wiki2.org/en/Catholic_Party_(Belgium), https://fr.wikipedia.org/wiki/Bloc_catholique
+BEL_communism_party:0 "КПБ"
+BEL_communism_party_long:0 "Коммунистическая партия Бельгии" #https://wiki2.org/en/Communist_Party_of_Belgium
+BEL_neutrality_party:0 "Дом Саксен-Кобург-Гота"
+BEL_neutrality_party_long:0 "Саксен-Кобург-Готская династия" #https://wiki2.org/en/House_of_Saxe-Coburg_and_Gotha
+
+SWI_fascism_party:0 "ФЛНСМ"
+SWI_fascism_party_long:0 "Фракция лояльного национал-социалистического мировоззрения" #https://wiki2.org/en/National_Movement_of_Switzerland / another candidate is Frontenbewegung/Front Movement https://de.wikipedia.org/wiki/Frontenbewegung
+SWI_democratic_party:0 "Федеральный совет"
+SWI_democratic_party_long:0 "Федеральный совет" #https://wiki2.org/en/Federal_Council_(Switzerland)
+SWI_communism_party:0 "КПШ"
+SWI_communism_party_long:0 "Коммунистическая партия Швейцарии" #https://wiki2.org/en/Communist_Party_of_Switzerland
+SWI_neutrality_party:0 "СДП"
+SWI_neutrality_party_long:0 "Свободно-демократическая партия" #https://wiki2.org/en/Free_Democratic_Party_of_Switzerland Modern party but i din't found any another candidate
+
+PER_fascism_party:0 "ЛП"
+PER_fascism_party_long:0 "Лазурная партия" #https://wiki2.org/en/Azure_Party
+PER_democratic_party:0 "ДПИ"
+PER_democratic_party_long:0 "Демократическая партия Ирана" #https://wiki2.org/en/Democrat_Party_of_Iran It was originally created in 1909, but in 1920 the party broke up into smaller groups, in 1946-1948 there was an attempt to form a new party
+PER_communism_party:0 "ИКП"
+PER_communism_party_long:0 "Иранская коммунистическая партия" #https://wiki2.org/en/Communist_Party_of_Persia
+PER_neutrality_party:0 "Дом Пехлеви"
+PER_neutrality_party_long:0 "Династия Пехлеви" #https://wiki2.org/en/Pahlavi_dynasty
+
+COL_fascism_party:0 "НПФК"
+COL_fascism_party_long:0 "Национальная патриотическая Фаланга Колумбии" #https://wiki2.org/en/Falangism_in_Latin_America#Colombia name of modern group
+COL_democratic_party:0 "КЛП"
+COL_democratic_party_long:0 "Колумбийская либеральная партия" #https://wiki2.org/en/Colombian_Liberal_Party
+COL_communism_party:0 "КПК"
+COL_communism_party_long:0 "Коммунистическая партия Колумбии" #https://wiki2.org/en/Colombian_Communist_Party
+COL_neutrality_party:0 "ККП"
+COL_neutrality_party_long:0 "Колумбийская консервативная партия" #https://wiki2.org/en/Colombian_Conservative_Party
+
+CZE_fascism_party:0 "НФО"
+CZE_fascism_party_long:0 "Национальное фашистское сообщество" #https://wiki2.org/en/National_Fascist_Community another candidate - https://wiki2.org/en/Vlajka
+CZE_fascism_party_national_partnership:0 "НП"
+CZE_fascism_party_national_partnership_long:0 "Национальное партнерство" #https://wiki2.org/en/National_Partnership
+CZE_democratic_party:0 "ЧНСП"
+CZE_democratic_party_long:0 "Чешская национально-социальная партия" #https://wiki2.org/en/Czech_National_Social_Party
+CZE_communism_party:0 "КПЧ"
+CZE_communism_party_long:0 "Коммунистическая партия Чехословакии" #https://wiki2.org/en/Communist_Party_of_Czechoslovakia
+CZE_neutrality_party:0 "НО"
+CZE_neutrality_party_long:0 "Национальное объединение" #https://wiki2.org/en/National_Unification_(Czechoslovakia)
+
+CHL_fascism_party:0 "НСДЧ"
+CHL_fascism_party_long:0 "Национал-социалистическое движение Чили" https://wiki2.org/en/National_Socialist_Movement_of_Chile
+CHL_democratic_party:0 "ЛП"
+CHL_democratic_party_long:0 "Либеральная партия" #https://wiki2.org/en/Liberal_Party_(Chile,_1849)
+CHL_communism_party:0 "КПЧ"
+CHL_communism_party_long:0 "Коммунистическая партия Чили" #https://wiki2.org/en/Communist_Party_of_Chile
+CHL_neutrality_party:0 "Военная хунта"
+CHL_neutrality_party_long:0 "Правительственная хунта Чили" #Reference for https://wiki2.org/en/Government_Junta_of_Chile_(1973) and Pinochet's Regime
+
+ETH_fascism_party:0 "СЭФ"
+ETH_fascism_party_long:0 "Союз эфиопских фашистов"
+ETH_democratic_party:0 "Демократическая партия"
+ETH_democratic_party_long:0 "Эфиопский демократическая партия" #https://wiki2.org/en/Ethiopian_Democratic_Party founded in 1974 but who cares?
+ETH_communism_party:0 "IHAPA"
+ETH_communism_party:0 "ЭНРП"
+ETH_communism_party_long:0 "Эфиопская народно-революционная партия" #https://wiki2.org/en/Ethiopian_People%27s_Revolutionary_Party founded in 1972
+ETH_neutrality_party:0 "Дом Соломона"
+ETH_neutrality_party_long:0 "Соломонова династия" #https://wiki2.org/en/Solomonic_dynasty
+
+ALB_fascism_party:0 "АФП"
+ALB_fascism_party_long:0 "Албанская фашистская партия" #https://wiki2.org/en/Albanian_Fascist_Party alternative candidate is the https://wiki2.org/en/Balli_Kombëtar
+ALB_democratic_party:0 "СДП"
+ALB_democratic_party_long:0 "Социал-демократическая партия" #https://wiki2.org/ru/Социал-демократическая_партия_(Албания,_1944—1946)
+ALB_communism_party:0 "АПТ"
+ALB_communism_party_long:0 "Албанская партия труда" #https://wiki2.org/en/Party_of_Labour_of_Albania
+ALB_neutrality_party:0 "«Движение за Законность»"
+ALB_neutrality_party_long:0 "Национальная организация «Движение за Законность»" #https://wiki2.org/en/Legality_Movement founded in 1924
+
+BOL_fascism_party:0 "БСФ"
+BOL_fascism_party_long:0 "Боливийская социалистическая фаланга" #https://wiki2.org/en/Bolivian_Socialist_Falange
+BOL_democratic_party:0 "ЛП"
+BOL_democratic_party_long:0 "Либеральная партия" #https://wiki2.org/en/Liberal_Party_(Bolivia)
+BOL_communism_party:0 "ПРЛ"
+BOL_communism_party_long:0 "Партия революционных левых" #https://wiki2.org/en/Leftist_Revolutionary_Party
+BOL_neutrality_party:0 "Хунта"
+BOL_neutrality_party_long:0 "Военная хунта"
+
+NIC_fascism_party:0 "ЦФП"
+NIC_fascism_party_long:0 "Центральноамериканская Фалангистская Партия"
+NIC_democratic_party:0 "ДП"
+NIC_democratic_party_long:0 "Демократическая партия" #https://wiki2.org/en/Democratic_Party_(Nicaragua)
+NIC_communism_party:0 "НСП"
+NIC_communism_party_long:0 "Никарагуанская социалистическая партия" #https://wiki2.org/en/Nicaraguan_Socialist_Party
+NIC_neutrality_party:0 "ЛНП"
+NIC_neutrality_party_long:0 "Либеральная националистическая партия" #https://wiki2.org/en/Nationalist_Liberal_Party
+
+COS_fascism_party:0 "НСПКР"
+COS_fascism_party_long:0 "Национал-социалистическая партия Коста-Рики" ##https://wiki2.org/es/Partido_Republicano_(Costa_Rica)
+COS_democratic_party:0 "НРП"
+COS_democratic_party_long:0 "Национальная республиканская партия" #https://wiki2.org/en/National_Republican_Party_(Costa_Rica)
+COS_communism_party:0 "КПКР"
+COS_communism_party_long:0 "Коммунистическую партию Коста-Рики" #https://wiki2.org/en/People%27s_Vanguard_Party_(Costa_Rica)
+COS_neutrality_party:0 "ПНС"
+COS_neutrality_party_long:0 "Партия Национального союза" #https://wiki2.org/en/National_Union_Party_(Costa_Rica) Founded in 1901. Has existed in various forms and coalition parties until 2010. Won the presidency four times (1902, 1928, 1948, 1958, 1966). 1948 election was unrecognized. Defunct as of 2010.
+
+ELS_fascism_party:0 "Отечество"
+ELS_fascism_party_long:0 "Национальная партия Отечества" #https://wiki2.org/en/National_Pro_Patria_Party
+ELS_democratic_party:1 "СДП"
+ELS_democratic_party_long:1 "Социал-демократическая партия" #https://wiki2.org/es/Partido_Social_Demócrata_(El_Salvador)
+ELS_communism_party:1 "КПС"
+ELS_communism_party_long:1 "Коммунистическая партия Сальвадора" #https://wiki2.org/en/Communist_Party_of_El_Salvador
+ELS_neutrality_party:0 "Революционный правящий совет"
+ELS_neutrality_party_long:0 "Революционный правящий совет Сальвадора" #https://wiki2.org/es/Consejo_de_Gobierno_Revolucionario
+
+GUA_fascism_party:0 "НАГ"
+GUA_fascism_party_long:0 "Национальный альянс Гватемалы"
+GUA_democratic_party:0 "ПРД"
+GUA_democratic_party_long:0 "Партия революционного действия" #https://wiki2.org/en/Revolutionary_Action_Party
+GUA_communism_party:0 "КПГ"
+GUA_communism_party_long:0 "Коммунистическая партия Гватемалы" #https://wiki2.org/en/Guatemalan_Party_of_Labour
+GUA_neutrality_party:0 "ПЛП"
+GUA_neutrality_party_long:0 "Прогрессивная либеральная партия" #https://wiki2.org/en/Progressive_Liberal_Party_(Guatemala)
+
+SIA_fascism_party:0 "Кхана Ратсадон"
+SIA_fascism_party_long:0 "Народная партия (радикальная военная фракция)" #https://wiki2.org/en/People%27s_Party_(Thailand)
+SIA_democratic_party:0 "Кхана Ратсадон"
+SIA_democratic_party_long:0 "Народная партия (гражданская фракция)"
+SIA_communism_party:0 "КПС"
+SIA_communism_party_long:0 "Коммунистическая партия Сиама" #https://wiki2.org/en/Communist_Party_of_Thailand
+SIA_neutrality_party:0 "Кхана Ратсадон"
+SIA_neutrality_party_long:0 "Народная партия (военная фракция)"
+
+URG_fascism_party:0 "РБП"
+URG_fascism_party_long:0 "Радикальная Белая Партия" #https://wiki2.org/es/Partido_Blanco_Radical was banned in 1933
+URG_democratic_party:0 "Колорадо"
+URG_democratic_party_long:0 "Партия Колорадо" #https://wiki2.org/en/Colorado_Party_(Uruguay)
+URG_communism_party:0 "КПУ"
+URG_communism_party_long:0 "Коммунистическая партия Уругвая" #https://wiki2.org/en/Communist_Party_of_Uruguay
+URG_neutrality_party:0 "ННП"
+URG_neutrality_party_long:0 "Независимая национальная партия" #https://wiki2.org/en/Independent_National_Party_(Uruguay)
+
+VEN_fascism_party:0 "НД"
+VEN_fascism_party_long:0 "Новый порядок" #https://wiki2.org/en/New_Order_(Venezuela) modern party, founded in 1974
+VEN_democratic_party:0 "ДПВ"
+VEN_democratic_party_long:0 "Демократическая партия Венесуэлы" #https://wiki2.org/es/Partido_Democrático_Venezolano
+VEN_communism_party:0 "КПВ"
+VEN_communism_party_long:0 "Коммунистическая партия Венесуэлы" #https://wiki2.org/en/Communist_Party_of_Venezuela
+VEN_neutrality_party:0 "НД"
+VEN_neutrality_party_long:0 "Национальное действие" #I can't find the source. I remember that it was a Russian or Spanish wikipedia page of one of the Venezuelan politicians of the game years.
+
+PRU_fascism_party:0 "РС"
+PRU_fascism_party_long:0 "Революционный союз" #https://wiki2.org/es/Unión_Revolucionaria, https://wiki2.org/en/Luis_Miguel_Sánchez_Cerro, https://wiki2.org/es/Luis_A._Flores
+PRU_democratic_party:0 "ПДД"
+PRU_democratic_party_long:0 "Прадистское демократическое движение" #https://wiki2.org/en/Peruvian_Democratic_Movement founded in 1956
+PRU_communism_party:0 "АПРА"
+PRU_communism_party_long:0 "Американский народно-революционный альянс" #https://wiki2.org/en/American_Popular_Revolutionary_Alliance
+PRU_neutrality_party:0 "НП"
+PRU_neutrality_party_long:0 "Националистическая Партия"#https://wiki2.org/es/Unión_Revolucionaria, https://wiki2.org/es/Clemente_Revilla This is the branch of the Revolutionary Union that supported Oscar Raimundo Benavidez Larrea. It was not the ruling party, but it is only the only candidate
+
+IRE_fascism_party:0 "НКП"
+IRE_fascism_party_long:0 "Национальная корпоративная партия" #https://wiki2.org/en/National_Corporate_Party
+IRE_democratic_party:0 "Фианна Файл"
+IRE_democratic_party_long:0 "Фианна Файл – Республиканская партия" #https://wiki2.org/en/Fianna_Fáil
+IRE_communism_party:0 "КПИ"
+IRE_communism_party_long:0 "Коммунистическая партия Ирландии" #https://wiki2.org/en/Communist_Party_of_Ireland
+IRE_neutrality_party:0 "НП"
+IRE_neutrality_party_long:0 "Националистическая партия" #https://wiki2.org/en/National_Party_(Ireland,_2016) modern party
+
+AFG_fascism_party:0 "НРПА"
+AFG_fascism_party_long:0 "Национально-революционная партия Афганистана" #https://wiki2.org/en/National_Revolutionary_Party_of_Afghanistan modern party, founded in 1974
+AFG_democratic_party:0 "АСДП"
+AFG_democratic_party_long:0 "Афганская социал-демократическая партия" #https://wiki2.org/en/Afghan_Millat_Party modern party, founded in 1966
+AFG_communism_party:0 "НДПА"
+AFG_communism_party_long:0 "Народно-демократическая партия Афганистана" #https://wiki2.org/en/People%27s_Democratic_Party_of_Afghanistan modern party, founded in 1965
+AFG_neutrality_party:0 "Дом Баракзай"
+AFG_neutrality_party_long:0 "Династия Баракзай" #https://wiki2.org/en/Barakzai_dynasty
+
+LUX_fascism_party:0 "НД"
+LUX_fascism_party_long:0 "Национальное движение" #https://wiki2.org/en/National_Movement_(Luxembourg) party is modern, but name is too good
+LUX_fascism_party_volksdeutsche_bewegung:0 "ННД"
+LUX_fascism_party_volksdeutsche_bewegung_long:0 "Народно-немецкое движение" #https://wiki2.org/en/Volksdeutsche_Bewegung Nazi collab party, i think this name must to be only under German control
+LUX_democratic_party:0 "ПП"
+LUX_democratic_party_long:0 "Правая партия" #https://wiki2.org/en/Party_of_the_Right_(Luxembourg)
+LUX_communism_party:0 "КПЛ"
+LUX_communism_party_long:0 "Коммунистическая партия Люксембурга" #https://wiki2.org/en/Communist_Party_of_Luxembourg
+LUX_neutrality_party:0 "Дом Нассау-Вейльбург"
+LUX_neutrality_party_long:0 "Династия Нассау-Вейльбург" #https://wiki2.org/en/House_of_Nassau-Weilburg
+
+BHU_fascism_party:0 "БНП"
+BHU_fascism_party_long:0 "Бутанская национальная партия" #https://wiki2.org/en/Bhutan_National_Party modern party
+BHU_democratic_party:0 "БПМП"
+BHU_democratic_party_long:0 "Бутанская партия мира и процветания" #https://wiki2.org/en/Bhutan_Peace_and_Prosperity_Party modern party
+BHU_communism_party:0 "КПБ"
+BHU_communism_party_long:0 "Коммунистическая партия Бутана" #https://wiki2.org/en/Bhutan_Communist_Party_(Marxist–Leninist–Maoist) modern party
+BHU_neutrality_party:0 "Дом Вангчук"
+BHU_neutrality_party_long:0 "Династия Вангчук" #https://wiki2.org/en/House_of_Wangchuck
+
+SLO_fascism_party:0 "ГСНП-ПСНЕ"
+SLO_fascism_party_long:0 "Глинкова словацкая народная партия - Партия словацкого национального единства" #https://wiki2.org/en/Slovak_People%27s_Party
+SLO_democratic_party:0 "ДП"
+SLO_democratic_party_long:0 "Демократическая партия" #https://wiki2.org/en/Democratic_Party_(Slovakia,_1944)
+SLO_communism_party:0 "КПС"
+SLO_communism_party_long:0 "Коммунистическая партия Словакии" #https://wiki2.org/en/Communist_Party_of_Slovakia_(1939)
+SLO_neutrality_party:0 "РПЗМН"
+SLO_neutrality_party_long:0 "Республиканская партия земледельческого и мелкокрестьянского населения" #https://wiki2.org/en/Republican_Party_of_Farmers_and_Peasants
+
+ECU_fascism_party:0 "ЭНРД"
+ECU_fascism_party_long:0 "Эквадорское националистическое революционное действие" #https://wiki2.org/es/Acción_Revolucionaria_Nacionalista_Ecuatoriana
+ECU_democratic_party:0 "ЭСП"
+ECU_democratic_party_long:0 "Эквадорская социалистическая партия" #https://wiki2.org/en/Socialist_Party_–_Broad_Front_of_Ecuador
+ECU_democratic_party_liberals:0 "ЭРЛП"
+ECU_democratic_party_liberals_long:0 "Эквадорская радикальная либеральная партия" #https://wiki2.org/en/Ecuadorian_Radical_Liberal_Party
+ECU_communism_party:0 "КПЭ"
+ECU_communism_party_long:0 "Коммунистическая партия Эквадора" #https://www.youtube.com/watch?v=q4Ej-kXXjko&t=2s
+ECU_neutrality_party:0 "ППО"
+ECU_neutrality_party_long:0 "Партия патриотического общества" #https://wiki2.org/en/Patriotic_Society_Party modern party
+
+HON_fascism_party:0 "РНД"
+HON_fascism_party_long:0 "Революционное националистическое движение"
+HON_democratic_party:0 "НПГ"
+HON_democratic_party_long:0 "Национальная партия Гондураса" #https://wiki2.org/en/National_Party_of_Honduras
+HON_communism_party:0 "КПГ"
+HON_communism_party_long:0 "Коммунистическая партия Гондураса" #https://wiki2.org/en/Communist_Party_of_Honduras modern party, founded in 1954
+HON_neutrality_party:0 "ЛПГ"
+HON_neutrality_party_long:0 "Либеральная партия Гондураса" #https://wiki2.org/en/Liberal_Party_of_Honduras
+
+NEP_fascism_party:0 "НС «Армия Шивы"
+NEP_fascism_party_long:0 "Непальский союз «Армия Шивы»"
+NEP_democratic_party:0 "НК"
+NEP_democratic_party_long:0 "Непальский конгресс"
+NEP_communism_party:0 "КПН"
+NEP_communism_party_long:0 "Коммунистическая партия Непала" #https://wiki2.org/en/Communist_Party_of_Nepal_(Unified_Marxist-Leninist)#Founding,_1991–1993 modern party, I didn't find any early communist parties
+NEP_neutrality_party:0 "Дом Рана"
+NEP_neutrality_party_long:0 "Династия Рана" #https://wiki2.org/en/Rana_dynasty
+
+PAN_fascism_party:0 "ОНПД"
+PAN_fascism_party_long:0 "Общественное национально-патриотическое действие"
+PAN_democratic_party:0 "НЛП"
+PAN_democratic_party_long:0 "Национал-либеральная партия" #https://wiki2.org/en/National_Liberal_Party_(Panama)
+PAN_communism_party:0 "КПП"
+PAN_communism_party_long:0 "Коммунистическая партия Панамы" #https://wiki2.org/en/People%27s_Party_of_Panama
+PAN_neutrality_party:0 "НРП"
+PAN_neutrality_party_long:0 "Национально-революционная партия" #https://wiki2.org/en/Panameñista_Party
+
+PHI_fascism_party:0 "Ганап"
+PHI_fascism_party_long:0 "Целая партия" #https://wiki2.org/en/Ganap_Party
+PHI_democratic_party:0 "НП"
+PHI_democratic_party_long:0 "Националистическая партия" #https://wiki2.org/en/Nacionalista_Party
+PHI_communism_party:0 "КПФ"
+PHI_communism_party_long:0 "Коммунистическая партия Филиппин" #https://wiki2.org/en/Partido_Komunista_ng_Pilipinas-1930
+PHI_neutrality_party:0 "ПС"
+PHI_neutrality_party_long:0 "Партия Свободы" #https://wiki2.org/en/Lapiang_Malaya
+
+SAU_fascism_party:0 "АНБ"
+SAU_fascism_party_long:0 "Арабский национальный блок"
+SAU_democratic_party:0 "ПНС"
+SAU_democratic_party_long:0 "Партия национального собрания"
+SAU_communism_party:0 "КПА"
+SAU_communism_party_long:0 "Коммунистическая партия Саудовской Аравии" #https://wiki2.org/en/Communist_Party_in_Saudi_Arabia modern party, founded in 1954
+SAU_neutrality_party:0 "Дом Аль Сауд"
+SAU_neutrality_party_long:0 "Династия Аль Сауд" #https://wiki2.org/en/House_of_Saud
+
+YEM_fascism_party:0 "ДСЙ"
+YEM_fascism_party_long:0 "Движение свободных йеменцев" #https://wiki2.org/en/Free_Yemeni_Movement
+YEM_democratic_party:0 "ВНК"
+YEM_democratic_party_long:0 "Всеобщий народный конгресс Йемена" #https://wiki2.org/en/General_People%27s_Congress_(Yemen) modern party
+YEM_communism_party:0 "ЙСП"
+YEM_communism_party_long:0 "Йеменская социалистическая партия" #https://wiki2.org/en/Yemeni_Socialist_Party modern party
+YEM_neutrality_party:0 "Дом Аль Касими"
+YEM_neutrality_party_long:0 "Династия Аль Касими" #https://wiki2.org/en/Al-Qasimi
+
+OMA_fascism_party:0 "НПО"
+OMA_fascism_party_long:0 "Национальная партия Омана"
+OMA_democratic_party:0 "ДП"
+OMA_democratic_party_long:0 "Демократическая партия Омана"
+OMA_communism_party:0 "НФОМ"
+OMA_communism_party_long:0 "Народный фронт освобождения Омана" #https://wiki2.org/en/Popular_Front_for_the_Liberation_of_Oman modenr party
+OMA_neutrality_party:0 "Дом Аль Бу-Саид"
+OMA_neutrality_party_long:0 "Династия Аль Бу-Саид" #https://wiki2.org/en/House_of_Al_Said
+
+MON_fascism_party:0 "МРП"
+MON_fascism_party_long:0 "Монгольская радикальная партия"
+MON_democratic_party:0 "МСДП"
+MON_democratic_party_long:0 "Монгольская социал-демократическая партия" #https://wiki2.org/en/Mongolian_Social_Democratic_Party modern party
+MON_communism_party:0 "МНРП"
+MON_communism_party_long:0 "Монгольская народно-революционная партия" #https://wiki2.org/en/Mongolian_People%27s_Party
+MON_neutrality_party:0 "МТП"
+MON_neutrality_party_long:0 "Монгольская традиционная партия" #https://wiki2.org/en/Mongolian_Traditional_United_Party moder party
+
+TAN_fascism_party:0 "ТНП"
+TAN_fascism_party_long:0 "Тувинская национальная партия"
+TAN_democratic_party:0 "ТДП"
+TAN_democratic_party_long:0 "Тувинская демократическая партия"
+TAN_communism_party:0 "ТНРП"
+TAN_communism_party_long:0 "Тувинская народно-революционная партия" #https://wiki2.org/en/Tuvan_People%27s_Revolutionary_Party
+TAN_neutrality_party:0 "УНС"
+TAN_neutrality_party_long:0 "Урянхайский национальный совет"
+
+PAR_fascism_party:0 "НФФ"
+PAR_fascism_party_long:0 "Национальная фебреристская фаланга"
+PAR_democratic_party:0 "ЛП"
+PAR_democratic_party_long:0 "Либеральная партия" #https://wiki2.org/en/Liberal_Party_(Paraguay)
+PAR_communism_party:0 "РФП"
+PAR_communism_party_long:0 "Революционная фебреристская партия" #https://www.youtube.com/watch?v=Ak3ggJpUF88
+PAR_neutrality_party:0 "Военный совет"
+PAR_neutrality_party_long:0 "Военный совет Парагвая"
+
+CUB_fascism_party:0 "НСПК"
+CUB_fascism_party_long:0 "Национал-синдикалистская партия Кубы"
+CUB_democratic_party:0 "ЛПК"
+CUB_democratic_party_long:0 "Либеральная партия Кубы" #https://wiki2.org/en/Liberal_Party_of_Cuba
+CUB_communism_party:0 "КПК"
+CUB_communism_party_long:0 "Коммунистическая партия Кубы" #https://wiki2.org/en/Communist_Party_of_Cuba
+CUB_neutrality_party:0 "ПРП-П"
+CUB_neutrality_party_long:0 "Кубинская революционная партия – подлинная" #https://wiki2.org/en/Partido_Auténtico
+
+DOM_fascism_party:0 "ПД"
+DOM_fascism_party_long:0 "Доминиканская партия" #https://wiki2.org/en/Dominican_Party
+DOM_democratic_party:0 "ДРП"
+DOM_democratic_party_long:0 "Доминиканская революционная партия" #https://wiki2.org/en/Dominican_Revolutionary_Party
+DOM_communism_party:0 "ДНСП"
+DOM_communism_party_long:0 "Доминиканская народно-социалистическая партия" #https://wiki2.org/en/Dominican_Communist_Party
+DOM_neutrality_party:0 "ДПО"
+DOM_neutrality_party_long:0 "Доминиканская партия освобождения" #https://wiki2.org/en/Dominican_Liberation_Party modern party
+
+HAI_fascism_party:0 "ПНЕ"
+HAI_fascism_party_long:0 "Партия национального единства" #https://wiki2.org/en/National_Unity_Party_(Haiti) modern party
+HAI_democratic_party:0 "ЛП"
+HAI_democratic_party_long:0 "Либеральная партия" #https://historica.fandom.com/wiki/Liberal_Party_of_Haiti, https://fr.wikipedia.org/wiki/Jean-Pierre_Boyer-Bazelais
+HAI_communism_party:0 "КПГ"
+HAI_communism_party_long:0 "Коммунистическая партия Гаити" #https://wiki2.org/en/Unified_Party_of_Haitian_Communists
+HAI_neutrality_party:0 "ОПНД"
+HAI_neutrality_party_long:0 "Объединение прогрессивных национал-демократов" #https://wiki2.org/en/Rally_of_Progressive_National_Democrats modern party
+
+KOR_fascism_party:0 "ПВНЕ"
+KOR_fascism_party_long:0 "Партия Великого национального единства"
+KOR_democratic_party:0 "КДП"
+KOR_democratic_party_long:0 "Корейская демократическая партия" #https://wiki2.org/en/Korea_Democratic_Party
+KOR_communism_party:0 "ККП"
+KOR_communism_party_long:0 "Корейская коммунистическая партия"
+KOR_neutrality_party:0 "Дом Ли"
+KOR_neutrality_party_long:0 "Династия Ли" #https://wiki2.org/en/House_of_Yi
+
+ICE_fascism_party:0 "НСП"
+ICE_fascism_party_long:0 "Национал-социалистическая партия" #https://wiki2.org/en/Nationalist_Party_(Iceland)
+ICE_democratic_party:0 "ПП"
+ICE_democratic_party_long:0 "Прогрессивная партия" #https://wiki2.org/en/Progressive_Party_(Iceland)
+ICE_communism_party:0 "КПИ"
+ICE_communism_party_long:0 "Коммунистическая партия Исландии" #https://wiki2.org/en/Communist_Party_of_Iceland
+ICE_neutrality_party:0 "ПН"
+ICE_neutrality_party_long:0 "Партия независимости" #https://www.youtube.com/watch?v=Ak3ggJpUF88
+
+SYR_fascism_party:0 "ССНП"
+SYR_fascism_party_long:0 "Сирийская социальная националистическая партия" #https://wiki2.org/en/Syrian_Social_Nationalist_Party
+SYR_democratic_party:0 "НБ"
+SYR_democratic_party_long:0 "Национальный блок" #https://wiki2.org/en/National_Bloc_(Syria)
+SYR_communism_party:0 "СКП"
+SYR_communism_party:0 "Сирийская коммунистическая партия" #https://wiki2.org/en/Syrian_Communist_Party
+SYR_neutrality_party:0 "Дом Аль Хашимит"
+SYR_neutrality_party_long:0 "Династия Аль Хашимит" #https://wiki2.org/en/Hashemites#World_War_I_and_the_Arab_Revolt
+
+LEB_fascism_party:0 "ЛФП «Катаиб»"
+LEB_fascism_party_long:0 "Ливанская фалангистская партия" #https://wiki2.org/en/Kataeb_Party
+LEB_democratic_party:0 "КБ"
+LEB_democratic_party_long:0 "Конституционный блок" #https://wiki2.org/en/Constitutional_Bloc_(Lebanon)
+LEB_communism_party:0 "ЛКП"
+LEB_communism_party_long:0 "Ливанская коммунистическая партия" #https://wiki2.org/en/Lebanese_Communist_Party
+LEB_neutrality_party:0 "НБ"
+LEB_neutrality_party_long:0 "Национальный блок" #https://wiki2.org/en/National_Bloc_(Lebanon)
+
+JOR_fascism_party:0 "НСП"
+JOR_fascism_party_long:0 "Национал-социалистическая партия"
+JOR_democratic_party:0 "ПДС"
+JOR_democratic_party_long:0 "Демократический союз Иордании"
+JOR_communism_party:0 "ИКП"
+JOR_communism_party_long:0 "Иорданская коммунистическая партия" #https://wiki2.org/en/Jordanian_Communist_Party
+JOR_neutrality_party:0 "Дом Аль Хашимит"
+JOR_neutrality_party_long:0 "Династия Аль Хашимит"
+
+EGY_fascism_party:0 "ПМЕ"
+EGY_fascism_party_long:0 "Партия «Молодой Египет»" #https://wiki2.org/en/Young_Egypt_Party_(1933)
+EGY_democratic_party:0 "ПД"
+EGY_democratic_party_long:0 "Партия делегации" #https://wiki2.org/en/Wafd_Party
+EGY_communism_party:0 "ЕКП"
+EGY_communism_party_long:0 "Коммунистическая партия Египта" #https://wiki2.org/en/Egyptian_Communist_Party
+EGY_neutrality_party:0 "Дом Алавийя"
+EGY_neutrality_party_long:0 "Династия Алавийя" #https://wiki2.org/en/Alaouite_dynasty
+
+PAL_fascism_party:0 "АСВ"
+PAL_fascism_party_long:0 "Армия Священной войны" #https://wiki2.org/en/Army_of_the_Holy_War
+PAL_democratic_party:0 "ДСП"
+PAL_democratic_party_long:0 "Демократический союз Палестины" #https://wiki2.org/en/Palestinian_Democratic_Union modern party
+PAL_communism_party:0 "КПП"
+PAL_communism_party_long:0 "Коммунистическая партия Палестины" #https://wiki2.org/en/Palestine_Communist_Party
+PAL_neutrality_party:0 "ТП"
+PAL_neutrality_party_long:0 "Третий путь" #https://wiki2.org/en/Third_Way_(Palestinian_political_party) modern party
+
+ISR_fascism_party:0 "«Свобода»"
+ISR_fascism_party_long:0 "«Свобода»" #https://wiki2.org/en/Herut
+ISR_democratic_party:0 "ПП"
+ISR_democratic_party_long:0 "Прогрессивная партия" #https://wiki2.org/en/Progressive_Party_(Israel)
+ISR_communism_party:0 "КПИ"
+ISR_communism_party_long:0 "Коммунистическая партия Израиля" #https://wiki2.org/en/Maki_(political_party)
+ISR_neutrality_party:0 "МАФДАЛ"
+ISR_neutrality_party_long:0 "Национальная религиозная партия" #https://wiki2.org/en/National_Religious_Party modern party, founded in 1956
+
+VIN_fascism_party:0 "НПВВ"
+VIN_fascism_party_long:0 "Националистическая партия Великого Вьетнама" #https://wiki2.org/en/Nationalist_Party_of_Greater_Vietnam !!! it is not the same as the https://wiki2.org/en/Việt_Nam_Quốc_Dân_Đảng
+VIN_democratic_party:0 "Партия Кан-Лао"
+VIN_democratic_party_long:0 "Персоналистическая рабочая революционная партия" #https://wiki2.org/en/Personalist_Labor_Revolutionary_Party modern party founded 1954
+VIN_communism_party:0 "КПИК"
+VIN_communism_party_long:0 "Коммунистическая партия Индокитая" #https://wiki2.org/en/Communist_Party_of_Vietnam
+VIN_neutrality_party:0 "НПВ"
+VIN_neutrality_party_long:0 "Национальная партия Вьетнама" #https://wiki2.org/en/Việt_Nam_Quốc_Dân_Đảng
+
+CAM_fascism_party:0 "КНФ"
+CAM_fascism_party_long:0 "Кхмерский национальный фронт" #https://wiki2.org/en/Khmer_People%27s_National_Liberation_Front modern party, just inspiration 
+CAM_democratic_party:0 "ДП"
+CAM_democratic_party_long:0 "Демократическая партия" #https://wiki2.org/en/Democratic_Party_(Cambodia)
+CAM_communism_party:0 "КНРП"
+CAM_communism_party_long:0 "Кхмерская народно-революционная партия" #https://wiki2.org/en/Cambodian_People%27s_Party founded in 1951
+CAM_neutrality_party:0 "НСО"
+CAM_neutrality_party_long:0 "Народно-социалистическое общество" #https://wiki2.org/en/Sangkum founded in 1955
+
+INS_fascism_party:0 "ПФГ"
+INS_fascism_party_long:0 "Партия функциональных групп" #https://wiki2.org/en/Golkar modern party, they are not fascists technically... but Indonesia's politics are complicated...
+INS_democratic_party:0 "НПИ"
+INS_democratic_party_long:0 "Национальная партия Индонезии" #https://wiki2.org/en/Indonesian_National_Party
+INS_communism_party:0 "КПИ"
+INS_communism_party_long:0 "Коммунистическая партия Индонезии" #https://wiki2.org/en/Communist_Party_of_Indonesia
+INS_neutrality_party:0 "ИМРС"
+INS_neutrality_party_long:0 "Индонезийский мархаэнистский рабочий союз" #https://wiki2.org/en/Permai
+
+MAL_fascism_party:0 "ДМП"
+MAL_fascism_party_long:0 "Движение молодого поколения" #https://wiki2.org/en/List_of_political_parties_in_Malaysia#Before_1949 Led by Aziz Ishak and A Samad Ismail, it was part of the PUTERA coalition that worked with the AMCJA in a multi-racial political front. The movement was banned with the outbreak of the Malayan Emergency.
+MAL_democratic_party:0 "ОМНО"
+MAL_democratic_party_long:0 "Малайский демократический союз" #https://wiki2.org/en/List_of_political_parties_in_Malaysia#Before_1949 The first post-war non-ethnic political party primarily but not exclusively operating in Singapore, an integral part of British Malaya then. The party was voluntarily dissolved after their failure to block the formation of the Federation of Malaya in favour of the Malayan Union and the outbreak of the Malayan Emergency.
+MAL_communism_party:0 "КПМ"
+MAL_communism_party_long:0 "Коммунистическая партия Малайи" #https://wiki2.org/en/Communist_Party_of_Malaya
+MAL_neutrality_party:0 "МНП"
+MAL_neutrality_party_long:0 "Малайская национальная партия" #https://wiki2.org/en/Kesatuan_Melayu_Muda --> https://wiki2.org/en/Parti_Kebangsaan_Melayu_Malaya actually left wing nationalists but can't to find another candidate
+
+LAO_fascism_party:0 "КЗНИ"
+LAO_fascism_party_long:0 "Комитет защиты национальных интересов" #https://wiki2.org/en/Committee_for_the_Defence_of_National_Interests founded in 1958
+LAO_democratic_party:0 "ДП"
+LAO_democratic_party_long:0 "Демократическая партия" #https://wiki2.org/en/Democratic_Party_(Laos)
+LAO_communism_party:0 "НРПЛ"
+LAO_communism_party_long:0 "Народно-революционная партия Лаоса" #https://wiki2.org/en/Lao_People%27s_Revolutionary_Party was established on 22 March 1955 by former members of the Indochinese Communist Party
+LAO_neutrality_party:0 "Дом Кхун Ло"
+LAO_neutrality_party_long:0 "Династия Кхун Ло" #https://wiki2.org/en/Khun_Lo, https://wiki2.org/en/List_of_monarchs_of_Laos 
+
+MNT_fascism_party:0 "Зеленые"
+MNT_fascism_party_long:0 "Зеленые" #https://wiki2.org/en/Greens_(Montenegro)
+MNT_democratic_party:0 "Демократы"
+MNT_democratic_party_long:0 "Демократическая партия"
+MNT_communism_party:0 "КПЧ"
+MNT_communism_party_long:0 "Коммунистическая партия Черногории" #https://wiki2.org/en/League_of_Communists_of_Montenegro
+MNT_neutrality_party:0 "ЧФП"
+MNT_neutrality_party_long:0 "Черногорская федералистская партия" #https://wiki2.org/en/Montenegrin_Federalist_Party Montenegrin ultra nationalists, start democtratic right wing but went full fascist collaboration in 41'
+
+UKR_fascism_party:0 "ОУН"
+UKR_fascism_party_long:0 "Организация украинских националистов" #https://wiki2.org/en/Organization_of_Ukrainian_Nationalists
+UKR_democratic_party:0 "УНДО"
+UKR_democratic_party_long:0 "Украинское национально-демократическое объединение" #https://wiki2.org/en/Ukrainian_National_Democratic_Alliance
+UKR_communism_party:0 "КП(б)У"
+UKR_communism_party_long:0 "Коммунистическая партия (большевиков) Украины" #https://wiki2.org/en/Communist_Party_of_Ukraine
+UKR_neutrality_party:0 "УСГГ"
+UKR_neutrality_party_long:0 "Украинский союз гетманцев - государственников" #https://rudocs.exdat.com/docs/index-186598.html?page=7
+
+GEO_fascism_party:0 "ГНП «Белый Георгий»"
+GEO_fascism_party_long:0 "Грузинская националистическая партия «Белый Георгий»" #https://wiki2.org/en/Tetri_Giorgi_(organization), https://serg-slavorum.livejournal.com/1161860.html #Since 1942 - The Georgian National Socialist Party - «Tetri Giorgi») and «The Union of Georgian Traditionalists», among other things, aimed at establishing a constitutional monarchy in Georgia, liberated from the Bolsheviks, headed by the above-mentioned Prince Irakli. The organizations recruited their members from among the emigrants, as well as defectors and prisoners of war of the Red Army
+GEO_democratic_party:0 "СДПГ"
+GEO_democratic_party:0 "Социал-демократическая партия Грузии" #https://wiki2.org/en/Social_Democratic_Party_of_Georgia
+GEO_communism_party:0 "КП(б)Г"
+GEO_communism_party_long:0 "Коммунистическая партия (большевиков) Грузии" #https://wiki2.org/en/Communist_Party_of_Georgia_(Soviet_Union)
+GEO_neutrality_party:0 "Дом Багратионов"
+GEO_neutrality_party_long:0 "Династия Багратионов" #https://wiki2.org/en/Bagrationi_dynasty
+
+KAZ_fascism_party:0 "«Судьба нации»"
+KAZ_fascism_party_long:0 "Партия «Судьба нации»"
+KAZ_democratic_party:0 "СДП"
+KAZ_democratic_party_long:0 "Социал-демократическая партия \nSocial Democratic Party"
+KAZ_communism_party:0 "КП(б)К"
+KAZ_communism_party_long:0 "Коммунистическая партия (большевиков) Казахстана" #https://wiki2.org/en/Communist_Party_of_Kazakhstan_(Soviet_Union)
+KAZ_neutrality_party:0 "«Орлы Великой степи»"
+KAZ_neutrality_party_long:0 "Партия «Орлы Великой степи»"
+
+AZR_fascism_party:0 "ДНВ"
+AZR_fascism_party_long:0 "Движения национального возрождения"
+AZR_democratic_party:0 "МДП «Мусават»"
+AZR_democratic_party_long:0 "Мусульманская демократическая партия «Мусават»" #https://wiki2.org/ru/Мусават
+AZR_communism_party:0 "КП(б)А"
+AZR_communism_party_long:0 "Коммунистическая партия (большевиков) Азербайджана" #https://wiki2.org/en/Azerbaijan_Communist_Party_(1920)
+AZR_neutrality_party:0 "ПНС"
+AZR_neutrality_party_long:0 "Партия национальной солидарности"
+
+ARM_fascism_party:0 "ААС"
+ARM_fascism_party_long:0 "Армянский арийский союз"
+ARM_democratic_party:0 "АРФ «Дашнакцутюн»"
+ARM_democratic_party_long:0 "Армянская революционная федерация «Дашнакцутюн»" #https://wiki2.org/en/Armenian_Revolutionary_Federation
+ARM_communism_party:0 "КП(б)А"
+ARM_communism_party_long:0 "Коммунистическая партия (большевиков) Армении" #https://wiki2.org/en/Armenian_Communist_Party
+ARM_neutrality_party:0 "РПА"
+ARM_neutrality_party_long:0 "Республиканская партия Армении" #https://wiki2.org/en/Republican_Party_of_Armenia modern party
+
+BLR_fascism_party:0 "БНП"
+BLR_fascism_party_long:0 "Белорусская независимая партия" #https://wiki2.org/en/Belarusian_Independence_Party / Another candidate is https://wiki2.org/ru/Белорусская_национал-социалистическая_партия
+BLR_democratic_party:0 "БСДП"
+BLR_democratic_party_long:0 "Белорусская социал-демократическая партия" #https://wiki2.org/en/Belarusian_Social_Democratic_Party_(Assembly) modern party
+BLR_communism_party:0 "КП(б)Б"
+BLR_communism_party_long:0 "Коммунистическая партия (большевиков) Белоруссии" #https://wiki2.org/en/Communist_Party_of_Byelorussia
+BLR_neutrality_party:0 "БНР «Возрождение»"
+BLR_neutrality_party_long:0 "Белорусский народный фронт «Возрождение»" #https://wiki2.org/en/Belarusian_Popular_Front moder movement
+
+PAK_fascism_party:0 "АИС (Ф)"
+PAK_fascism_party_long:0 "Ассамблея исламских священнослужителей (Ф)" #https://wiki2.org/en/JUI_(F)
+PAK_democratic_party:0 "МЛ"
+PAK_democratic_party_long:0 "Мусульманская лига" #https://wiki2.org/en/Muslim_League_(Pakistan)
+PAK_communism_party:0 "КПП"
+PAK_communism_party_long:0 "Коммунистическая партия Пакистана"
+PAK_neutrality_party:0 "ИО"
+PAK_neutrality_party:0 "Исламское общество" #https://wiki2.org/en/Jamaat-e-Islami_Pakistan
+
+TAH_fascism_party:0 "ТНС"
+TAH_fascism_party_long:0 "Таитянский национальный союз"
+TAH_democratic_party:0 "ДОТН"
+TAH_democratic_party_long:0 "Демократическое объединение таитянского народа" #https://wiki2.org/en/Democratic_Rally_of_the_Tahitian_People
+TAH_communism_party:0 "СПП"
+TAH_communism_party_long:0 "Социалистическая партия Полинезии" #https://polynesia.fandom.com/wiki/Socialist_Party_of_Polynesia modern party
+TAH_neutrality_party:0 "Дом Помаре"
+TAH_neutrality_party_long:0 "Династия Помаре" #https://wiki2.org/en/Pōmare_dynasty
+
+FSM_fascism_party:0 "ПВС"
+FSM_fascism_party_long:0 "Партия возрождения Сауделеров"
+FSM_democratic_party:0 "РП"
+FSM_democratic_party_long:0 "Республиканская партия"
+FSM_communism_party:0 "ПКС"
+FSM_communism_party_long:0 "Понпейский коммунистический союз"
+FSM_neutrality_party:0 "НПП"
+FSM_neutrality_party_long:0 "Национальная прогрессивная партия"
+
+GUM_fascism_party:0 "НП «Чаморро»"
+GUM_fascism_party_long:0 "Национальная партия «Чаморро»" #https://wiki2.org/en/Chamorro_people
+GUM_democratic_party:0 "ДП"
+GUM_democratic_party_long:0 "Демократическая партия" #https://wiki2.org/en/Democratic_Party_(Northern_Mariana_Islands)
+GUM_communism_party:0 "МЛП"
+GUM_communism_party_long:0 "Марианская коммунистическая партия" 
+GUM_neutrality_party:0 "ПК"
+GUM_neutrality_party_long:0 "Партия Ковенантов" #https://wiki2.org/en/Covenant_Party_(Northern_Mariana_Islands)
+
+SOL_fascism_party:0 "ОНПСО"
+SOL_fascism_party_long:0 "Объединенная национальная партия Соломоновых островов" #https://wiki2.org/en/Solomons_United_National_Party
+SOL_democratic_party:0 "ДПСО"
+SOL_democratic_party_long:0 "Демократическая партия Соломоновых островов"
+SOL_communism_party:0 "ПНА"
+SOL_communism_party_long:0 "Партия народного альянса"
+SOL_neutrality_party:0 "НПП"
+SOL_neutrality_party_long:0 "Народная прогрессивная партия" #https://wiki2.org/en/People%27s_Progressive_Party_(Solomon_Islands)
+
+SAM_fascism_party:0 "ПППС"
+SAM_fascism_party_long:0 "Первая политическая партия Самоа"
+SAM_democratic_party:0 "ОДПС"
+SAM_democratic_party_long:0 "Объединенная демократическая партия Самоа"
+SAM_communism_party:0 "КПС"
+SAM_communism_party_long:0 "Коммунистическая партия Самоа"
+SAM_neutrality_party:0 "НПС"
+SAM_neutrality_party_long:0 "Национальная партия Самоа"
+
+HAW_fascism_party:0 "ГНП"
+HAW_fascism_party_long:0 "Гавайская национальная партия"
+HAW_democratic_party:0 "ДПГ"
+HAW_democratic_party_long:0 "Демократическая партия Гавайев" #https://wiki2.org/en/Democratic_Party_of_Hawaii
+HAW_communism_party:0 "КПГ"
+HAW_communism_party_long:0 "Коммунистическая партия Гавайев" #https://wiki2.org/en/Communist_Party_of_Hawaii
+HAW_neutrality_party:0 "Дом Камехамеха"
+HAW_neutrality_party_long:0 "Династия Камехамеха" #https://wiki2.org/en/House_of_Kamehameha
+
+BRI_fascism_party:0 "БНП"
+BRI_fascism_party_long:0 "Бретонская национальная партия" #https://wiki2.org/en/Breton_National_Party
+BRI_democratic_party:0 "БФЛ"
+BRI_democratic_party_long:0 "Бретонская федералистская лига" #https://wiki2.org/en/Breton_Federalist_League
+BRI_communism_party:0 "БКП"
+BRI_communism_party_long:0 "Коммунистическая партия Бретани" #https://wiki2.org/en/Breton_Communist_Party modern party, founded in 1971
+BRI_neutrality_party:0 "БРС"
+BRI_neutrality_party_long:0 "Бретонский регионалистский союз" #https://wiki2.org/en/Breton_Regionalist_Union # Atlernative candidate -Kredenn Geltiek Hollvedel https://fr.wikipedia.org/wiki/Kredenn_Geltiek_Hollvedel / https://fr.wikipedia.org/wiki/Culte_de_sainte_Anne_en_Bretagne#La_déesse_Ana / https://wiki2.org/en/Tuatha_Dé_Danann
+
+GLC_fascism_party:0 "ГНП"
+GLC_fascism_party_long:0 "Галисийский националистический порядок" #https://wiki2.org/en/Dereita_Galeguista
+GLC_democratic_party:0 "ГП"
+GLC_democratic_party_long:0 "Галисийская партия" #https://wiki2.org/en/Partido_Galeguista_(1931)
+GLC_communism_party:0 "ГСС"
+GLC_communism_party_long:0 "Галисийский социалистический союз" #https://wiki2.org/en/Galician_Socialist_Union
+GLC_neutrality_party:0 "АГРО"
+GLC_neutrality_party_long:0 "Автономная галисийская республиканская организация" #https://wiki2.org/en/Autonomous_Galician_Republican_Organization
+
+CAT_fascism_party:0 "ВПД «Только мы!»"
+CAT_fascism_party_long:0 "Военизированное политическое движение «Только мы!»"
+CAT_democratic_party:0 "ЛРК"
+CAT_democratic_party_long:0 "Левые республиканцы Каталонии" #https://wiki2.org/en/Republican_Left_of_Catalonia
+CAT_communism_party:0 "ОСПК"
+CAT_communism_party_long:0 "Объединённая социалистическая партия Каталонии" #https://wiki2.org/en/Unified_Socialist_Party_of_Catalonia
+CAT_neutrality_party:0 "РЛГ"
+CAT_neutrality_party_long:0 "Региональная лига Каталонии" #https://wiki2.org/en/Lliga_Regionalista
+
+NAV_fascism_party:0 "НРСБ"
+NAV_fascism_party_long:0 "Народно-радикальный союз Басконии"
+NAV_democratic_party:0 "БНД"
+NAV_democratic_party_long:0 "Баскское национальное действие" #https://wiki2.org/es/Acción_Nacionalista_Vasca
+NAV_communism_party:0 "КПЭ"
+NAV_communism_party_long:0 "Коммунистическая партия Эускади" #https://wiki2.org/en/Communist_Party_of_the_Basque_Country
+NAV_neutrality_party:0 "БНП"
+NAV_neutrality_party_long:0 "Баскская националистическая партия" #https://wiki2.org/en/Basque_Nationalist_Party
+
+KUR_fascism_party:0 "ОКН «Хойбун»"
+KUR_fascism_party_long:0 "Организация курдской независимости «Хойбун»" #https://de.wiki2.org/wiki/Xoybûn
+KUR_democratic_party:0 "ДПК"
+KUR_democratic_party_long:0 "Демократическая партия Курдистана" #https://wiki2.org/en/Democratic_Party_of_Iranian_Kurdistan
+KUR_communism_party:0 "РПК"
+KUR_communism_party_long:0 "Революционная партия Курдистана" #https://wiki2.org/en/Revolutionary_Party_of_Kurdistan
+KUR_neutrality_party:0 "Клан Барзани"
+KUR_neutrality_party_long:0 "Династия Барзани" #https://wiki2.org/ru/Барзани
+
+CRO_fascism_party:0 "Усташи"
+CRO_fascism_party_long:0 "Усташи – хорватское революционное движение" #https://wiki2.org/en/Ustaše
+CRO_democratic_party:0 "ХКП"
+CRO_democratic_party_long:0 "Хорватская крестьянская партия" #https://wiki2.org/en/Croatian_Peasant_Party
+CRO_communism_party:0 "КПХ"
+CRO_communism_party_long:0 "Коммунистическая партия Хорватии" #https://wiki2.org/en/League_of_Communists_of_Croatia
+CRO_neutrality_party:0 "ХС"
+CRO_neutrality_party_long:0 "Хорватский сабор" #https://wiki2.org/en/Croatian_Parliament
+
+TRA_fascism_party:0 "НСТ"
+TRA_fascism_party_long:0 "Национальный союз Трансильвании" #https://wiki2.org/en/National_Union_from_Banat, https://wiki2.org/en/Avram_Imbroane
+TRA_democratic_party:0 "ТСДП"
+TRA_democratic_party_long:0 "Трансильванская социал-демократическая партия" #https://wiki2.org/en/Romanian_Social_Democratic_Party_(1927-1948)
+TRA_communism_party:0 "СПТ"
+TRA_communism_party_long:0 "Социалистическая партия Трансильвании" #https://wiki2.org/en/Socialist_Party_of_Transylvania
+TRA_neutrality_party:0 "ТКП"
+TRA_neutrality_party_long:0 "Трансильванская крестьянская партия" #https://wiki2.org/en/Transylvanian_Peasants%27_Party
+
+####################  
+### by myself #########
+####################
+
+PNG_fascism_party:0 "НПП"
+PNG_fascism_party_long:0 "Национальная передовая партия"
+PNG_democratic_party:0 "КП ПНГ"
+PNG_democratic_party_long:0 "Консервативная партия Папуа Новая Гвинея"
+PNG_communism_party:0 "РРП"
+PNG_communism_party_long:0 "Революционная рабочая партия"
+PNG_neutrality_party:0 "Национальный фронт"
+PNG_neutrality_party_long:0 "Партия «Национальный фронт»"
+
+FJI_fascism_party:0 "ОПФ"
+FJI_fascism_party_long:0 "Объединенная партия Фиджи" #https://wiki2.org/en/Soqosoqo_Duavata_ni_Lewenivanua
+FJI_democratic_party:0 "ПАФ"
+FJI_democratic_party_long:0 "Партия альянса Фиджи" #https://wiki2.org/en/Alliance_Party_(Fiji)
+FJI_communism_party:0 "НДПФ"
+FJI_communism_party_long:0 "Народно-демократическая партия Фиджи"
+FJI_neutrality_party:0 "СДЛП"
+FJI_neutrality_party_long:0 "Социал-демократическая либеральная партия"
+
+BRM_fascism_party:0 "МБА"
+BRM_fascism_party_long:0 "Партия «Мы Бирманская ассоциация»" #https://wiki2.org/en/Thakins
+BRM_democratic_party:0 "ДПБ"
+BRM_democratic_party_long:0 "Демократическая партия Бирмы" #https://wiki2.org/en/Burma_Democratic_Party
+BRM_communism_party:0 "КПБ"
+BRM_communism_party_long:0 "Коммунистическая партия Бирмы" #https://wiki2.org/en/Communist_Party_of_Burma
+BRM_neutrality_party:0 "Нгаувбинвсаинг"
+BRM_neutrality_party_long:0 "«Альянс Пяти Цветов»" #https://wiki2.org/en/United_GCBA
+
+BAN_fascism_party:0 "ИСБ"
+BAN_fascism_party_long:0 "Исламская ассамблея Бангладеш" #https://wiki2.org/en/Bangladesh_Jamaat-e-Islami
+BAN_democratic_party:0 "ФРП"
+BAN_democratic_party_long:0 "Фермерская рабочая партия" #https://wiki2.org/en/Krishak_Sramik_Party
+BAN_communism_party:0 "КПВП"
+BAN_communism_party_long:0 "Коммунистической партии Восточного Пакистана" #https://wiki2.org/en/Communist_Party_of_Bangladesh
+BAN_neutrality_party:0 "НМЛ"
+BAN_neutrality_party_long:0 "Народная мусульманская лига" #https://wiki2.org/en/Awami_League
+
+SRL_fascism_party:0 "ТОТИ"
+SRL_fascism_party_long:0 "Тигры освобождения Тамил-Илама" #https://wiki2.org/en/Liberation_Tigers_of_Tamil_Eelam
+SRL_democratic_party:0 "ЦНК"
+SRL_democratic_party_long:0 "Цейлонский национальный конгресс" #https://wiki2.org/en/Ceylon_National_Congress / https://wiki2.org/en/United_National_Party
+SRL_communism_party:0 "КПШЛ"
+SRL_communism_party_long:0 "Коммунистическая партия Шри-Ланки" #https://wiki2.org/en/Communist_Party_of_Sri_Lanka
+SRL_neutrality_party:0 "ПС"
+SRL_neutrality_party_long:0 "Партия свободы" #https://wiki2.org/en/Sri_Lanka_Freedom_Party
+
+MLD_fascism_party:0 "НПП"
+MLD_fascism_party_long:0 "Народная прогрессивная партия"
+MLD_democratic_party:0 "МДП"
+MLD_democratic_party_long:0 "Мальдивская демократическая партия"
+MLD_communism_party:0 "МНП"
+MLD_communism_party_long:0 "Мальдивская народная партия"
+MLD_neutrality_party:0 "ПС"
+MLD_neutrality_party_long:0 "Партия Справедливости"
+
+UAE_fascism_party:0 "АПНЕ"
+UAE_fascism_party_long:0 "Арабская партия национального единения"
+UAE_democratic_party:0 "КДП"
+UAE_democratic_party_long:0 "Конституционно-демократическая партия"
+UAE_communism_party:0 "АКП"
+UAE_communism_party_long:0 "Арабская коммунистическая партия"
+UAE_neutrality_party:0 "Высший совет"
+UAE_neutrality_party_long:0 "Высший совет союза"
+
+QAT_fascism_party:0 "ИФД"
+QAT_fascism_party_long:0 "Исламский фронт действий"
+QAT_democratic_party:0 "ДПГ"
+QAT_democratic_party_long:0 "Демократическая партия Катара"
+QAT_communism_party:0 "КПК"
+QAT_communism_party_long:0 "Коммунистическая партия Катара"
+QAT_neutrality_party:0 "Дом Аль Тани"
+QAT_neutrality_party_long:0 "Династия Аль Тани"
+
+KUW_fascism_party:0 "БНД"
+KUW_fascism_party_long:0 "Блок Народного Действия" #https://wiki2.org/en/Popular_Action_Bloc_(Kuwait)
+KUW_democratic_party:0 "НДА"
+KUW_democratic_party_long:0 "Национальный демократический альянс" #https://wiki2.org/en/National_Democratic_Alliance_(Kuwait)
+KUW_communism_party:0 "КНС"
+KUW_communism_party_long:0 "Кувейтский народный союз" #https://wiki2.org/en/Kuwaiti_Progressive_Movement
+KUW_neutrality_party:0 "Дом Аль Сабах"
+KUW_neutrality_party_long:0 "Династия Аль Сабах" #https://wiki2.org/en/House_of_Al_Sabah
+
+TMS_fascism_party:0 "ПТВ"
+TMS_fascism_party_long:0 "Партия Туркменистанского возрождения"
+TMS_democratic_party:0 "РПТ"
+TMS_democratic_party_long:0 "Республиканская партия Туркменистана" #https://wiki2.org/ru/Республиканская_партия_Туркменистана
+TMS_communism_party:0 "КП(б)Т"
+TMS_communism_party_long:0 "Коммунистическая партия (большевиков) Туркменистана" #https://wiki2.org/en/Communist_Party_of_Turkmenistan
+TMS_neutrality_party:0 "ДПТ"
+TMS_neutrality_party_long:0 "Демократическая партия Туркменистана" #https://wiki2.org/en/Democratic_Party_of_Turkmenistan
+
+UZB_fascism_party:0 "ИПВУ"
+UZB_fascism_party_long:0 "Исламская партия возрождения Узбекистана" #https://wiki2.org/ru/Исламская_партия_возрождения_Узбекистана
+UZB_democratic_party:0 "НДПУ)"
+UZB_democratic_party_long:0 "Народно-демократическая партия Узбекистана" #https://wiki2.org/en/People%27s_Democratic_Party_of_Uzbekistan
+UZB_communism_party:0 "КП(б)У"
+UZB_communism_party_long:0 "Коммунистическая партия (большевиков) Узбекистана"
+UZB_neutrality_party:0 "ДП «Эрк»"
+UZB_neutrality_party_long:0 "Демократическая партия «Эрк»" #https://wiki2.org/en/Erk_Democratic_Party
+
+TAJ_fascism_party:0 "ПИВТ"
+TAJ_fascism_party_long:0 "Партия исламского возрождения Таджикистана" #https://wiki2.org/en/Islamic_Renaissance_Party_of_Tajikistan
+TAJ_democratic_party:0 "ДПТ"
+TAJ_democratic_party_long:0 "Демократическая партия Таджикистана" #https://wiki2.org/en/Democratic_Party_(Tajikistan)
+TAJ_communism_party:0 "КП(б)Т"
+TAJ_communism_party_long:0 "Коммунистическая партия (большевиков) Таджикистана"
+TAJ_neutrality_party:0 "НДПТ"
+TAJ_neutrality_party_long:0 "Народно-демократическая партия Таджикистана" #https://wiki2.org/en/People%27s_Democratic_Party_of_Tajikistan
+
+KYR_fascism_party:0 "НП «Ата-Журт»"
+KYR_fascism_party_long:0 "Националистическая партия «Ата-Журт» (Отечество)" #https://wiki2.org/en/Ata-Zhurt
+KYR_democratic_party:0 "СДПК"
+KYR_democratic_party_long:0 "Социал-демократическая партия Кыргызстана" #https://wiki2.org/en/Social_Democratic_Party_of_Kyrgyzstan
+KYR_communism_party:0 "КП(б)К"
+KYR_communism_party_long:0 "Коммунистическая партия (большевиков) Киргизии"
+KYR_neutrality_party:0 "ПЕР"
+KYR_neutrality_party_long:0 "Партия единства и развития" #https://wiki2.org/ru/Алга,_Кыргызстан!
+
+CYP_fascism_party:0 "ЭОКА"
+CYP_fascism_party_long:0 "Национальная организация кипрских бойцов" #https://wiki2.org/en/EOKA
+CYP_democratic_party:0 "ДФ"
+CYP_democratic_party_long:0 "Демократический фронт" #https://wiki2.org/en/Democratic_Front_(Cyprus)
+CYP_communism_party:0 "ППТН"
+CYP_communism_party_long:0 "Прогрессивная партия трудового народа" #https://wiki2.org/en/Progressive_Party_of_Working_People
+CYP_neutrality_party:0 "ДП"
+CYP_neutrality_party_long:0 "Демократическая партия" #https://wiki2.org/en/Democratic_Party_(Cyprus)
+
+MAC_fascism_party:0 "ВМРО"
+MAC_fascism_party_long:0 "Внутренняя македонская революционная организация" #https://wiki2.org/en/Internal_Macedonian_Revolutionary_Organization
+MAC_democratic_party:0 "ДПМ"
+MAC_democratic_party_long:0 "Демократическая партия Македонии" #https://wiki2.org/en/Democratic_Party_of_Macedonia
+MAC_communism_party:0 "КПМ"
+MAC_communism_party_long:0 "Коммунистическая партия Македонии" #https://wiki2.org/en/League_of_Communists_of_Macedonia
+MAC_neutrality_party:0 "МПО"
+MAC_neutrality_party_long:0 "Македонская патриотическая организация" #https://wiki2.org/en/Macedonian_Patriotic_Organization
+
+BOS_fascism_party:0 "ППБГ"
+BOS_fascism_party_long:0 "Партия права Боснии и Герцеговины" #https://wiki2.org/en/Croatian_Party_of_Rights_of_Bosnia_and_Herzegovina / https://wiki2.org/en/Party_of_Rights_of_Bosnia_and_Herzegovina_1861
+BOS_democratic_party:0 "ПДП"
+BOS_democratic_party_long:0 "Партия демократического прогресса" #https://wiki2.org/en/Party_of_Democratic_Progress
+BOS_communism_party:0 "КПБГ"
+BOS_communism_party_long:0 "Коммунистическая партия Боснии и Герцеговины" #https://wiki2.org/en/League_of_Communists_of_Bosnia_and_Herzegovina
+BOS_neutrality_party:0 "НДА"
+BOS_neutrality_party_long:0 "Народно-демократический альянс" #https://wiki2.org/en/Democratic_People%27s_Alliance
+
+SLV_fascism_party:0 "СА"
+SLV_fascism_party_long:0 "Словенский Альянс" #https://wiki2.org/ru/Белая_гвардия_(Словения), https://wiki2.org/en/Slovene_Home_Guard
+SLV_democratic_party:0 "СНП"
+SLV_democratic_party_long:0 "Словенская народная партия" #https://wiki2.org/en/Slovene_People%27s_Party_(historical)
+SLV_communism_party:0 "КПС"
+SLV_communism_party_long:0 "Коммунистическая партия Словении" #https://wiki2.org/en/League_of_Communists_of_Slovenia
+SLV_neutrality_party:0 "СКП"
+SLV_neutrality_party_long:0 "Словенская крестьянская партия" #https://wiki2.org/en/Slovene_Peasant_Party
+
+COR_fascism_party:0 "ФНОК"
+COR_fascism_party_long:0 "Фронт национального освобождения Корсики" #https://wiki2.org/en/National_Liberation_Front_of_Corsica
+COR_democratic_party:0 "ПКН"
+COR_democratic_party_long:0 "Партия корсиканской нации" #https://wiki2.org/en/Party_of_the_Corsican_Nation
+COR_communism_party:0 "КПРК"
+COR_communism_party_long:0 "Коммунистическая партия рабочих Корсики"
+COR_neutrality_party:0 "СКН"
+COR_neutrality_party_long:0 "Союз корсиканского народа" #https://wiki2.org/en/Union_of_the_Corsican_People
+
+OCC_fascism_party:0 "ОНП"
+OCC_fascism_party_long:0 "Окситанская националистическая партия"
+OCC_democratic_party:0 "ОП"
+OCC_democratic_party_long:0 "Окситанская партия"
+OCC_communism_party:0 "КПО"
+OCC_communism_party_long:0 "Коммунистическая партия Окситании"
+OCC_neutrality_party:0 "Дом Бурбонов"
+OCC_neutrality_party_long:0 "Династия Бурбонов"
+
+ADU_fascism_party:0 "ИПО"
+ADU_fascism_party_long:0 "Исламская партия освобождения"
+ADU_democratic_party:0 "АП"
+ADU_democratic_party_long:0 "Андалусистская партия" #https://wiki2.org/en/Andalusian_Party
+ADU_communism_party:0 "КПА"
+ADU_communism_party_long:0 "Коммунистическая партия Андалусии" #https://wiki2.org/en/Communist_Party_of_Andalusia
+ADU_neutrality_party:0 "Дом Умайя"
+ADU_neutrality_party_long:0 "Династия Омейяд" #https://wiki2.org/en/Umayyad_dynasty
+
+WLS_fascism_party:0 "НПУ"
+WLS_fascism_party_long:0 "Национальная партия Уэльса" #https://wiki2.org/en/Saunders_Lewis
+WLS_democratic_party:0 "ВКП"
+WLS_democratic_party_long:0 "Валлийская консервативная партия	" #https://wiki2.org/en/Welsh_Conservatives
+WLS_communism_party:0 "СОУ"
+WLS_communism_party_long:0 "Социалистическое общество Уэльса" #https://wiki2.org/en/South_Wales_Socialist_Society \https://wiki2.org/en/Communist_Party_of_South_Wales_and_the_West_of_England
+WLS_neutrality_party:0 "ПУ"
+WLS_neutrality_party_long:0 "Партия Уэльса" #https://wiki2.org/en/Plaid_Cymru
+
+SCO_fascism_party:0 "ШНС"
+SCO_fascism_party_long:0 "Шотландский национальный союз" #https://wiki2.org/en/Right_Club / https://wiki2.org/en/Archibald_Maule_Ramsay
+SCO_democratic_party:0 "Юнионисты"
+SCO_democratic_party_long:0 "Юнионистская партия" #https://wiki2.org/en/Unionist_Party_(Scotland)
+SCO_communism_party:0 "КПШ"
+SCO_communism_party_long:0 "Коммунистическая партия Шотландии"
+SCO_neutrality_party:0 "ШНП"
+SCO_neutrality_party_long:0 "Шотландская национальная партия" #https://wiki2.org/en/Scottish_National_Party
+
+NIR_fascism_party:0 "ИНОА"
+NIR_fascism_party_long:0 "Ирландская национальная освободительная армия" #https://wiki2.org/en/Irish_National_Liberation_Army irl they left, but still good name candidate
+NIR_democratic_party:0 "ОЮП"
+NIR_democratic_party_long:0 "Ольстерская юнионистская партия" #https://wiki2.org/en/Ulster_Unionist_Party
+NIR_communism_party:0 "КПСИ"
+NIR_communism_party_long:0 "Коммунистическая партия Северной Ирландии" #https://wiki2.org/en/Communist_Party_of_Ireland
+NIR_neutrality_party:0 "«Шинн Фейн»"
+NIR_neutrality_party_long:0 "«Мы сами»" #https://wiki2.org/en/Sinn_Féin
+
+BLZ_fascism_party:0 "НП"
+BLZ_fascism_party_long:0 "Национальная партия Белиза" #https://wiki2.org/en/National_Party_(Belize)
+BLZ_democratic_party:0 "ОДП"
+BLZ_democratic_party_long:0 "Объединённая демократическая партия" #https://wiki2.org/en/People%27s_United_Party
+BLZ_communism_party:0 "КПБ"
+BLZ_communism_party_long:0 "Коммунистическая партия Белиза"
+BLZ_neutrality_party:0 "ОНП"
+BLZ_neutrality_party_long:0 "Объединенная народная партия" #https://wiki2.org/en/People%27s_United_Party
+
+BAH_fascism_party:0 "БНП"
+BAH_fascism_party_long:0 "Багамская национальная партия"
+BAH_democratic_party:0 "ПЛП"
+BAH_democratic_party_long:0 "Прогрессивная либеральная партия" #https://wiki2.org/en/Progressive_Liberal_Party
+BAH_communism_party:0 "АПБО"
+BAH_communism_party_long:0 "Авангардная партия Багамских островов" #https://wiki2.org/en/List_of_political_parties_in_The_Bahamas
+BAH_neutrality_party:0 "СНД"
+BAH_neutrality_party_long:0 "Свободное национальное движение" #https://wiki2.org/en/Free_National_Movement
+
+JAM_fascism_party:0 "НИП"
+JAM_fascism_party_long:0 "Национальная имперская партия Ямайки"
+JAM_democratic_party:0 "ННП"
+JAM_democratic_party_long:0 "Народная национальная партия" #https://wiki2.org/en/People%27s_National_Party
+JAM_communism_party:0 "РПЯ"
+JAM_communism_party_long:0 "Рабочая партия Ямайки" #https://wiki2.org/en/Workers_Party_of_Jamaica
+JAM_neutrality_party:0 "ОПЯ"
+JAM_neutrality_party_long:0 "Объединенная партия Ямайки" #https://wiki2.org/en/United_Party_of_Jamaica 
+
+CRC_fascism_party:0 "ФНП"
+CRC_fascism_party_long:0 "Фашистская национальная партия"
+CRC_democratic_party:0 "ДП"
+CRC_democratic_party_long:0 "Демократическая партия" #https://wiki2.org/en/Democratic_Party_(Netherlands_Antilles)
+CRC_communism_party:0 "ФОТ"
+CRC_communism_party_long:0 "Фронт освобождения трудящихся" #https://wiki2.org/en/Party_Workers%27_Liberation_Front_30th_of_May
+CRC_neutrality_party:0 "ННП"
+CRC_neutrality_party_long:0 "Национальная народная партия" ##https://wiki2.org/en/National_People%27s_Party_(Curaçao)
+
+PUE_fascism_party:0 "НППР"
+PUE_fascism_party_long:0 "Националистическая партия Пуэрто-Рико" #https://wiki2.org/en/Puerto_Rican_Nationalist_Party
+PUE_democratic_party:0 "НДП"
+PUE_democratic_party_long:0 "Народно-демократическая партия" #https://wiki2.org/en/Popular_Democratic_Party_(Puerto_Rico)
+PUE_communism_party:0 "ПКП"
+PUE_communism_party_long:0 "Пуэрто-риканская коммунистическая партия" #https://wiki2.org/en/Puerto_Rican_Communist_Party
+PUE_neutrality_party:0 "РС"
+PUE_neutrality_party_long:0 "Республиканский союз" #https://wiki2.org/en/Republican_Union_(Puerto_Rico)
+
+GDL_fascism_party:0 "СНСГ"
+GDL_fascism_party_long:0 "Союз националистический сил Гваделупы"
+GDL_democratic_party:0 "ПДПГ"
+GDL_democratic_party_long:0 "Прогрессивно-демократическая партия Гваделупы" #https://wiki2.org/en/Progressive_Democratic_Party_of_Guadeloupe
+GDL_communism_party:0 "ГКП"
+GDL_communism_party_long:0 "Гваделупская коммунистическая партия" #https://wiki2.org/en/Guadeloupe_Communist_Party
+GDL_neutrality_party:0 "ГЦ"
+GDL_neutrality_party_long:0 "Гваделупская цель" #https://wiki2.org/en/Guadeloupean_Objective
+
+BAS_fascism_party:0 "НССУ"
+BAS_fascism_party_long:0 "Национал-синдикалистский союз унитаристов"
+BAS_democratic_party:0 "ВИФЛП"
+BAS_democratic_party_long:0 "Вест-Индская федеральная лейбористская партия" #https://wiki2.org/en/West_Indies_Federal_Labour_Party
+BAS_communism_party:0 "РПВИ"
+BAS_communism_party_long:0 "Рабочая партия Вест-Индии"
+BAS_neutrality_party:0 "ПВИНК"
+BAS_neutrality_party_long:0 "Партия Вест-Индского национального конгресса" #https://wiki2.org/en/West_Indian_National_Congress_Party
+
+TRI_fascism_party:0 "ОНР"
+TRI_fascism_party_long:0 "Организация национальной реконструкции"
+TRI_democratic_party:0 "ЛПТ"
+TRI_democratic_party_long:0 "Лейбористская партия Тринидада" #https://wiki2.org/en/Trinidad_Labour_Party
+TRI_communism_party:0 "КПТТ"
+TRI_communism_party_long:0 "Коммунистическая партия Тринидада и Тобаго" #https://wiki2.org/en/Communist_Party_of_Trinidad_and_Tobago
+TRI_neutrality_party:0 "ННД"
+TRI_neutrality_party_long:0 "Народное национальное движение" #https://wiki2.org/en/People%27s_National_Movement
+
+GYA_fascism_party:0 "УНП"
+GYA_fascism_party_long:0 "Унитарная национальная партия"
+GYA_democratic_party:0 "ДПГ"
+GYA_democratic_party_long:0 "Демократическая партия Гайаны" #https://wiki2.org/en/Guyana_Democratic_Party
+GYA_communism_party:0 "НПП"
+GYA_communism_party_long:0 "Народная прогрессивная партия Гайаны" #https://wiki2.org/ru/Народная_прогрессивная_партия_Гайаны
+GYA_neutrality_party:0 "АНФ"
+GYA_neutrality_party_long:0 "Альянс национального фронта" #https://wiki2.org/en/National_Front_Alliance
+
+SUR_fascism_party:0 "НАС"
+SUR_fascism_party_long:0 "Национальный альянс Суринама"
+SUR_democratic_party:0 "НДП"
+SUR_democratic_party_long:0 "Национальная демократическая партия" #https://wiki2.org/en/National_Democratic_Party_(Suriname)
+SUR_communism_party:0 "КПС"
+SUR_communism_party_long:0 "Коммунистическая партия Суринама"
+SUR_neutrality_party:0 "ПРП"
+SUR_neutrality_party_long:0 "Прогрессивная реформистская партия" #https://wiki2.org/en/Progressive_Reform_Party_(Suriname)
+
+CAY_fascism_party:0 "ГФО"
+CAY_fascism_party_long:0 "Гвианский фронт освобождения"
+CAY_democratic_party:0 "ГДД"
+CAY_democratic_party_long:0 "Гвианское демократическое действие"
+CAY_communism_party:0 "СПГ"
+CAY_communism_party_long:0 "Социалистическая партия Гвианы" #https://wiki2.org/en/Guianese_Socialist_Party
+CAY_neutrality_party:0 "ДСГ"
+CAY_neutrality_party_long:0 "Демократические силы Гвианы" #https://wiki2.org/en/Democratic_Forces_of_Guiana
+
+MOR_fascism_party:0 "ПНД"
+MOR_fascism_party_long:0 "Партия национального действия"
+MOR_democratic_party:0 "ПН"
+MOR_democratic_party_long:0 "Партия независимости" #https://wiki2.org/en/Istiqlal_Party
+MOR_communism_party:0 "НСНС"
+MOR_communism_party_long:0 "Национальный союз народных сил" #https://wiki2.org/en/National_Union_of_Popular_Forces
+MOR_neutrality_party:0 "Дом Алавитов"
+MOR_neutrality_party_long:0 "Династия Алавитов" #https://wiki2.org/en/Alaouite_dynasty
+
+ALG_fascism_party:0 "ИФС"
+ALG_fascism_party_long:0 "Исламский фронт спасения" #https://wiki2.org/en/Islamic_Salvation_Front
+ALG_democratic_party:0 "ФНО"
+ALG_democratic_party_long:0 "Фронт национального освобождения" ##https://wiki2.org/en/National_Liberation_Front_(Algeria)
+ALG_communism_party:0 "ФСС"
+ALG_communism_party_long:0 "Фронт социалистических сил" #https://wiki2.org/en/Socialist_Forces_Front
+ALG_neutrality_party:0 "ПАН"
+ALG_neutrality_party_long:0 "Партия алжирского народа" #https://wiki2.org/en/Algerian_People%27s_Party
+
+TUN_fascism_party:0 "ПР"
+TUN_fascism_party_long:0 "Партия Родины"
+TUN_democratic_party:0 "НКЛП"
+TUN_democratic_party_long:0 "Новая конституционная либеральная партия" #https://wiki2.org/en/Neo_Destour
+TUN_communism_party:0 "ТКП"
+TUN_communism_party_long:0 "Тунисская коммунистическая партия" #https://wiki2.org/en/Tunisian_Communist_Party
+TUN_neutrality_party:0 "Дом Хусейнидов"
+TUN_neutrality_party_long:0 "Династия Хусейнидов" #https://wiki2.org/en/Husainid_dynasty
+
+LBA_fascism_party:0 "МАЛ"
+LBA_fascism_party_long:0 "Мусульманская ассоциация ликтора" #https://wiki2.org/en/Muslim_Association_of_the_Lictor
+LBA_democratic_party:0 "ЛНДФ"
+LBA_democratic_party_long:0 "Ливийский национальный демократический фронт" #https://wiki2.org/en/Libyan_National_Democratic_Front
+LBA_communism_party:0 "ЛКП"
+LBA_communism_party_long:0 "Ливийская коммунистическая партия" #https://wiki2.org/en/Libyan_Communist_Party
+LBA_neutrality_party:0 "Дом Сануситов"
+LBA_neutrality_party_long:0 "Династия Сануситов" #https://wiki2.org/en/Senusiyya
+
+WES_fascism_party:0 "ПВВЗ"
+WES_fascism_party_long:0 "Партия возрождения Вади-Захаб"
+WES_democratic_party:0 "ДФВЗ"
+WES_democratic_party_long:0 "Демократический фронт Вади-Захаб"
+WES_communism_party:0 "КСС"
+WES_communism_party_long:0 "Коммунистический союз Сахары"
+WES_neutrality_party:0 "Полисарио"
+WES_neutrality_party_long:0 "Народный фронт за освобождение Сегиет-эль-Хамра и Рио-де-Оро" #https://wiki2.org/en/Polisario_Front
+
+MRT_fascism_party:0 "ИПО"
+MRT_fascism_party_long:0 "Исламская партия освобождения"
+MRT_democratic_party:0 "ДСРП"
+MRT_democratic_party_long:0 "Демократическая и социал-республиканская партия" #https://wiki2.org/en/Republican_Party_for_Democracy_and_Renewal
+MRT_communism_party:0 "НРС"
+MRT_communism_party_long:0 "Народный рабочий союз"
+MRT_neutrality_party:0 "МНП"
+MRT_neutrality_party_long:0 "Мавританская народная партия" #https://wiki2.org/en/Mauritanian_People%27s_Party
+
+MLI_fascism_party:0 "ПНВ"
+MLI_fascism_party_long:0 "Партия национального возрождения"
+MLI_democratic_party:0 "НКДИ"
+MLI_democratic_party_long:0 "Национальный конгресс демократической инициативы"
+MLI_communism_party:0 "КПМ"
+MLI_communism_party_long:0 "Коммунистическая партия Мали"
+MLI_neutrality_party:0 "АДО"
+MLI_neutrality_party_long:0 "Суданский союз - Африканское демократическое объединение" #https://wiki2.org/en/Sudanese_Union_–_African_Democratic_Rally
+
+SEN_fascism_party:0 "ФПС"
+SEN_fascism_party_long:0 "Фашиская партия Сенегала"
+SEN_democratic_party:0 "СДБ"
+SEN_democratic_party_long:0 "Сенегальский демократический блок" #https://wiki2.org/en/Socialist_Party_of_Senegal
+SEN_communism_party:0 "КПС"
+SEN_communism_party_long:0 "Коммунистическая партия Сенегала" #https://wiki2.org/en/Senegalese_Communist_Party
+SEN_neutrality_party:0 "ААД"
+SEN_neutrality_party_long:0 "Африканское автономистское движение"
+
+GAM_fascism_party:0 "АППС"
+GAM_fascism_party_long:0 "Альянс за патриотическую переориентацию и созидание" #https://wiki2.org/en/Alliance_for_Patriotic_Reorientation_and_Construction 
+GAM_democratic_party:0 "ОДП"
+GAM_democratic_party_long:0 "Объединённая демократическая партия" #https://wiki2.org/en/United_Democratic_Party_(The_Gambia)
+GAM_communism_party:0 "НСРК"
+GAM_communism_party_long:0 "Национальный совет революционного командования" #https://wiki2.org/en/National_Council_for_the_Revolutionary_Command
+GAM_neutrality_party:0 "НПП"
+GAM_neutrality_party_long:0 "Народная прогрессивная партия" #https://wiki2.org/en/People%27s_Progressive_Party_(Gambia)
+
+GNB_fascism_party:0 "ПНЕ"
+GNB_fascism_party_long:0 "Партия национального единства"
+GNB_democratic_party:0 "ДСП"
+GNB_democratic_party_long:0 "Демократическая социалистическая партия"
+GNB_communism_party:0 "ПАИГК"
+GNB_communism_party_long:0 "Африканская партия независимости Гвинеи и Кабо-Верде" #https://wiki2.org/en/African_Party_for_the_Independence_of_Guinea_and_Cape_Verde
+GNB_neutrality_party:0 "ПСО"
+GNB_neutrality_party_long:0 "Партия социального обновления"
+
+GNA_fascism_party:0 "САВ"
+GNA_fascism_party_long:0 "Союз африканского возрождения"
+GNA_democratic_party:0 "ПЕП"
+GNA_democratic_party_long:0 "Партия единства и прогресса" #https://wiki2.org/en/Party_of_Unity_and_Progress
+GNA_communism_party:0 "КПГ"
+GNA_communism_party_long:0 "Коммунистическая партия Гвинеи"
+GNA_neutrality_party:0 "ДПГ"
+GNA_neutrality_party_long:0 "Демократическая партия Гвинеи" #https://wiki2.org/en/Democratic_Party_of_Guinea_–_African_Democratic_Rally
+
+SIE_fascism_party:0 "ОРФ"
+SIE_fascism_party_long:0 "Объединённый революционный фронт" #https://wiki2.org/en/Revolutionary_United_Front
+SIE_democratic_party:0 "ВКСЛ"
+SIE_democratic_party_long:0 "Всенародный конгресс Сьерра-Леоне" #https://wiki2.org/en/All_People%27s_Congress
+SIE_communism_party:0 "КПСЛ"
+SIE_communism_party_long:0 "Коммунистическая партия Сьерра-Леоне"
+SIE_neutrality_party:0 "НПСЛ"
+SIE_neutrality_party_long:0 "Народная партия Сьерра-Леоне" #https://wiki2.org/en/Sierra_Leone_People%27s_Party
+
+LIB_fascism_party:0 "ПВС"
+LIB_fascism_party_long:0 "Партия возрождения Сауделеров"
+LIB_democratic_party:0 "ПИВ"
+LIB_democratic_party_long:0 "Партия истинных вигов" #https://wiki2.org/en/True_Whig_Party
+LIB_communism_party:0 "КПЛ"
+LIB_communism_party_long:0 "Коммунистическая партия Либерии"
+LIB_neutrality_party:0 "ПЕ"
+LIB_neutrality_party_long:0 "Партия Единства"
+
+IVO_fascism_party:0 "РАНА"
+IVO_fascism_party_long:0 "Националистическая партия" #https://wiki2.org/en/Nationalist_Party_(Ivory_Coast)
+IVO_democratic_party:0 "ИНФ"
+IVO_democratic_party_long:0 "Ивуарийский народный фронт" #https://wiki2.org/en/Ivorian_Popular_Front
+IVO_communism_party:0 "РКПКИ"
+IVO_communism_party_long:0 "Революционная коммунистическая партия Кот-д'Ивуара" #https://wiki2.org/en/Revolutionary_Communist_Party_of_Côte_d%27Ivoire
+IVO_neutrality_party:0 "ДПКИ-АДС"
+IVO_neutrality_party_long:0 "Демократическая партия Кот-д’Ивуара - Африканское демократическое собрание" #https://wiki2.org/en/Democratic_Party_of_Ivory_Coast_–_African_Democratic_Rally
+
+VOL_fascism_party:0 "НДО"
+VOL_fascism_party_long:0 "Национальное движение за обновление" #https://wiki2.org/en/Sangoulé_Lamizana
+VOL_democratic_party:0 "ДПД"
+VOL_democratic_party_long:0 "Движение прогрессивных демократов"
+VOL_communism_party:0 "ПНА"
+VOL_communism_party_long:0 "Партия независимости Африки" #https://wiki2.org/en/African_Independence_Party_(Burkina_Faso)
+VOL_neutrality_party:0 "ВДС-АДО"
+VOL_neutrality_party_long:0 "Вольтовский демократический союз - Африканское демократическое объединение" #https://wiki2.org/en/African_Democratic_Rally_(Burkina)
+
+GHA_fascism_party:0 "ННП"
+GHA_fascism_party_long:0 "Национальная народная партия" #https://wiki2.org/en/People%27s_National_Party_(Ghana)
+GHA_democratic_party:0 "ОКЗБ"
+GHA_democratic_party_long:0 "Объединённый конвент Золотого Берега" #https://wiki2.org/en/United_Gold_Coast_Convention
+GHA_communism_party:0 "РПГ"
+GHA_communism_party_long:0 "Революционная партия Ганы"
+GHA_neutrality_party:0 "НПК"
+GHA_neutrality_party_long:0 "Народная партия конвента" #https://wiki2.org/en/Convention_People%27s_Party
+
+TOG_fascism_party:0 "ОТН"
+TOG_fascism_party_long:0 "Объединение тоголезского народа" #https://wiki2.org/en/Rally_of_the_Togolese_People
+TOG_democratic_party:0 "ППТ"
+TOG_democratic_party_long:0 "Партия прогресса Того" #https://wiki2.org/en/Togolese_Party_of_Progress
+TOG_communism_party:0 "КПТ"
+TOG_communism_party_long:0 "Коммунистическая партия Того" #https://wiki2.org/en/Communist_Party_of_Togo
+TOG_neutrality_party:0 "КЕТ"
+TOG_neutrality_party_long:0 "Комитет единства Того" #https://wiki2.org/en/Party_of_Togolese_Unity
+
+DAH_fascism_party:0 "ФДО"
+DAH_fascism_party_long:0 "Фронт действий за обновление"
+DAH_democratic_party:0 "СДП"
+DAH_democratic_party_long:0 "Социал-демократическая партия" #https://wiki2.org/en/Social_Democratic_Party_(Benin)
+DAH_communism_party:0 "ПНРБ"
+DAH_communism_party_long:0 "Партия народной революции Бенина" #https://wiki2.org/en/People%27s_Revolutionary_Party_of_Benin
+DAH_neutrality_party:0 "ПДЕ"
+DAH_neutrality_party_long:0 "Партия Дагомейского единства" #https://wiki2.org/en/Dahomeyan_Unity_Party
+
+NGR_fascism_party:0 "НСНН"
+NGR_fascism_party_long:0 "Национальный союз нигерийской нации"
+NGR_democratic_party:0 "НДС"
+NGR_democratic_party_long:0 "Нигерийский демократический союз" #https://wiki2.org/en/Sawaba
+NGR_communism_party:0 "НКП"
+NGR_communism_party_long:0 "Нигерийская коммунистическая партия"
+NGR_neutrality_party:0 "НПП-АДР"
+NGR_neutrality_party_long:0 "Нигерийская прогрессивная партия-Африканское демократическое объединение" #https://wiki2.org/en/Nigerien_Progressive_Party_–_African_Democratic_Rally
+
+NGA_fascism_party:0 "ВННП"
+NGA_fascism_party_long:0 "Великая нигерийская народная партия"
+NGA_democratic_party:0 "ДПНК"
+NGA_democratic_party_long:0 "Демократическая партия Нигерии и Камеруна" #https://wiki2.org/en/Democratic_Party_of_Nigeria_and_Cameroon
+NGA_communism_party:0 "РДП"
+NGA_communism_party_long:0 "Рабочая демократическая партия"
+NGA_neutrality_party:0 "СНК / НСНК"
+NGA_neutrality_party_long:0 "Северный народный конгресс / Национальный совет Нигерии и Камеруна" #https://wiki2.org/en/Northern_People%27s_Congress / https://wiki2.org/en/National_Council_of_Nigeria_and_the_Cameroons
+
+CHA_fascism_party:0 "ПДС"
+CHA_fascism_party_long:0 "Патриотическое движение спасения" #https://wiki2.org/en/Patriotic_Salvation_Movement
+CHA_democratic_party:0 "ЧДС"
+CHA_democratic_party_long:0 "Чадский демократический союз" #https://wiki2.org/en/Chadian_Democratic_Union
+CHA_communism_party:0 "ДЧЕС"
+CHA_communism_party_long:0 "Действие Чада за единство и социализм" #https://wiki2.org/en/Chadian_Action_for_Unity_and_Socialism
+CHA_neutrality_party:0 "ППЧ"
+CHA_neutrality_party_long:0 "Прогрессивная партия Чада" #https://wiki2.org/en/Chadian_Progressive_Party
+
+CMR_fascism_party:0 "КДВ"
+CMR_fascism_party_long:0 "Камерунское движение возрождения"
+CMR_democratic_party:0 "СНК"
+CMR_democratic_party_long:0 "Союз народов Камеруна" #https://wiki2.org/en/Union_of_the_Peoples_of_Cameroon
+CMR_communism_party:0 "КПК"
+CMR_communism_party_long:0 "Коммунистическая партия Камеруна"
+CMR_neutrality_party:0 "КНДД"
+CMR_neutrality_party_long:0 "Камерунское народное демократическое движение" #https://wiki2.org/en/Cameroon_People%27s_Democratic_Movement
+
+CAR_fascism_party:0 "ПФНЕ"
+CAR_fascism_party_long:0 "Патриотический фронт национального единства"
+CAR_democratic_party:0 "ЦДС"
+CAR_democratic_party_long:0 "Центральноафриканский демократический союз" #https://wiki2.org/en/Central_African_Democratic_Union
+CAR_communism_party:0 "ДОЦН"
+CAR_communism_party_long:0 "Движение за освобождение Центральноафриканского народа" #https://wiki2.org/en/Movement_for_the_Liberation_of_the_Central_African_People
+CAR_neutrality_party:0 "ДСЭЧА"
+CAR_neutrality_party_long:0 "Движение за социальную эволюцию Чёрной Африки" #https://wiki2.org/en/Movement_for_the_Social_Evolution_of_Black_Africa
+
+SUD_fascism_party:0 "ЧБ"
+SUD_fascism_party_long:0 "Черный блок" #https://wiki2.org/en/Black_Bloc_(Sudan)
+SUD_democratic_party:0 "НДП"
+SUD_democratic_party_long:0 "Народно-демократическая партия" #https://wiki2.org/en/People%27s_Democratic_Party_(Sudan)
+SUD_communism_party:0 "СКП"
+SUD_communism_party_long:0 "Суданская коммунистическая партия" #https://wiki2.org/en/Sudanese_Communist_Party
+SUD_neutrality_party:0 "НЮП"
+SUD_neutrality_party_long:0 "Национально-юнионистская партия" #https://wiki2.org/en/Democratic_Unionist_Party_(Sudan)
+
+ERI_fascism_party:0 "НЭП"
+ERI_fascism_party_long:0 "Новая эритрейская партия" #https://wiki2.org/en/New_Eritrea_Party
+ERI_democratic_party:0 "НФДС"
+ERI_democratic_party_long:0 "Народный фронт за демократию и справедливость" #https://wiki2.org/en/People%27s_Front_for_Democracy_and_Justice
+ERI_communism_party:0 "ЭДРНП"
+ERI_communism_party_long:0 "Эритрейская демократическая рабочая народная партия" #https://wiki2.org/en/Eritrean_Democratic_Working_People%27s_Party
+ERI_neutrality_party:0 "НМЛ"
+ERI_neutrality_party_long:0 "Независимая мусульманская лига" #https://wiki2.org/en/Independent_Moslem_League
+
+DJI_fascism_party:0 "СНС"
+DJI_fascism_party_long:0 "Союз национального спасения"
+DJI_democratic_party:0 "ПНД"
+DJI_democratic_party_long:0 "Партия народного движения" #https://wiki2.org/en/Party_of_the_Popular_Movement_(Djibouti)
+DJI_communism_party:0 "НОП"
+DJI_communism_party_long:0 "Народное объединение за прогресс" #https://wiki2.org/en/People%27s_Rally_for_Progress
+DJI_neutrality_party:0 "РС"
+DJI_neutrality_party_long:0 "Республиканский союз" #https://wiki2.org/en/Republican_Union_(French_Somaliland)
+
+SOM_fascism_party:0 "ААНС"
+SOM_fascism_party_long:0 "Аджураанский африканский национальный союз"
+SOM_democratic_party:0 "СМЛ"
+SOM_democratic_party_long:0 "Сомалийская молодежная лига" #https://wiki2.org/en/Somali_Youth_League
+SOM_communism_party:0 "СРСП"
+SOM_communism_party_long:0 "Сомалийская революционная социалистическая партия" #https://wiki2.org/en/Somali_Revolutionary_Socialist_Party
+SOM_neutrality_party:0 "Дом Маджиртин"
+SOM_neutrality_party_long:0 "Династия Маджиртин" #https://wiki2.org/en/Majeerteen#Majeerteen_Sultanates
+
+EQG_fascism_party:0 "КПНО"
+EQG_fascism_party_long:0 "Крестовый поход за национальное освобождение"
+EQG_democratic_party:0 "КСД"
+EQG_democratic_party_long:0 "Конвергенция за социальную демократию" #https://wiki2.org/en/Convergence_for_Social_Democracy_(Equatorial_Guinea)
+EQG_communism_party:0 "ПИЭГ"
+EQG_communism_party_long:0 "Популярная идея Экваториальной Гвинеи" #https://wiki2.org/en/Idea_Popular_de_Guinea_Ecuatorial
+EQG_neutrality_party:0 "ЕНП"
+EQG_neutrality_party_long:0 "Единая национальная партия" #https://wiki2.org/en/United_National_Workers%27_Party
+
+GAB_fascism_party:0 "СНИ"
+GAB_fascism_party_long:0 "Союз национального исправления"
+GAB_democratic_party:0 "ГДСС"
+GAB_democratic_party_long:0 "Габонский демократический и социальный союз" #https://wiki2.org/en/Gabonese_Democratic_Party_(1945)
+GAB_communism_party:0 "ГСП"
+GAB_communism_party_long:0 "Габонская социалистическая партия" #https://wiki2.org/en/Gabonese_Socialist_Party
+GAB_neutrality_party:0 "ГДП"
+GAB_neutrality_party_long:0 "Габонская демократическая партия" #https://wiki2.org/en/Gabonese_Democratic_Party_(1945)
+
+RCG_fascism_party:0 "ПСК"
+RCG_fascism_party_long:0 "Патриотический союз Конго"
+RCG_democratic_party:0 "КПГ"
+RCG_democratic_party_long:0 "Конголезская прогрессивная партия" #https://wiki2.org/en/Congolese_Progressive_Party
+RCG_communism_party:0 "КПТ"
+RCG_communism_party_long:0 "Конголезская партия труда" #https://wiki2.org/en/Congolese_Labour_Party
+RCG_neutrality_party:0 "ДСЗАИ"
+RCG_neutrality_party_long:0 "Демократический союз защиты африканских интересов" #https://nl.wikipedia.org/wiki/Union_démocratique_pour_la_défense_des_intérêts_africains
+
+COG_fascism_party:0 "НДР"
+COG_fascism_party_long:0 "Народное движение революции" #https://wiki2.org/en/Popular_Movement_of_the_Revolution
+COG_democratic_party:0 "СБ"
+COG_democratic_party_long:0 "Союз Баконго" #https://wiki2.org/en/ABAKO
+COG_communism_party:0 "ПАС"
+COG_communism_party_long:0 "Партия африканской солидарности" #https://wiki2.org/en/Parti_Solidaire_Africain
+COG_neutrality_party:0 "НДК"
+COG_neutrality_party_long:0 "Национальное движение Конго" #https://wiki2.org/en/Mouvement_National_Congolais
+
+UGA_fascism_party:0 "УПД"
+UGA_fascism_party_long:0 "Угандийское патриотическое движение" #https://wiki2.org/en/Uganda_Patriotic_Movement
+UGA_democratic_party:0 "НКУ"
+UGA_democratic_party_long:0 "Народный конгресс Уганды" #https://wiki2.org/en/Uganda_People%27s_Congress
+UGA_communism_party:0 "КПУ"
+UGA_communism_party_long:0 "Коммунистическая партия Уганды"
+UGA_neutrality_party:0 "КЕ"
+UGA_neutrality_party_long:0 "Кабака Екка \nПартия «Только король»" #https://wiki2.org/en/Kabaka_Yekka, https://wiki2.org/en/King_of_Buganda, https://wiki2.org/en/Buganda
+
+KEN_fascism_party:0 "ПСБ"
+KEN_fascism_party_long:0 "Политический союз Балухьи" #https://wiki2.org/en/Baluhya_Political_Union
+KEN_democratic_party:0 "АДСК"
+KEN_democratic_party_long:0 "Африканский демократический союз Кении" #https://wiki2.org/en/Kenya_African_Democratic_Union
+KEN_communism_party:0 "КНС"
+KEN_communism_party_long:0 "Кенийский народный союз" #https://wiki2.org/en/Kenya_People%27s_Union
+KEN_neutrality_party:0 "САК"
+KEN_neutrality_party_long:0 "Союз африканцев Кении" #https://wiki2.org/en/Kenya_African_Union
+
+RWA_fascism_party:0 "Пармехуту"
+RWA_fascism_party_long:0 "Партия движения освобождения Хуту" #https://wiki2.org/en/Parmehutu
+RWA_democratic_party:0 "ОДСР"
+RWA_democratic_party_long:0 "Объединенные демократические силы Руанды"
+RWA_communism_party:0 "РСП"
+RWA_communism_party_long:0 "Руандийская социалистическая партия"
+RWA_neutrality_party:0 "Дом Абаньигинья"
+RWA_neutrality_party_long:0 "Династия Абаньигинья" #https://wiki2.org/en/Kigeli_V_Ndahindurwa#cite_note-3, https://wiki2.org/en/Kingdom_of_Rwanda
+
+BRD_fascism_party:0 "ПНС"
+BRD_fascism_party_long:0 "Партия национального согласия"
+BRD_democratic_party:0 "ХДП"
+BRD_democratic_party_long:0 "Христианско-демократическая партия" #https://wiki2.org/en/Christian_Democratic_Party_(Burundi)
+BRD_communism_party:0 "РПБ"
+BRD_communism_party_long:0 "Рабочая партия Бурунди" #https://wiki2.org/en/Burundi_Workers%27_Party
+BRD_neutrality_party:0 "Дом Нтверо"
+BRD_neutrality_party_long:0 "Династия Нтверо" #https://wiki2.org/en/List_of_kings_of_Burundi
+
+TZN_fascism_party:0 "ЗНП"
+TZN_fascism_party_long:0 "Занзибарская националистическая партия" #https://wiki2.org/en/Zanzibar_Nationalist_Party
+TZN_democratic_party:0 "РП"
+TZN_democratic_party_long:0 "Революционная партия" #https://wiki2.org/en/Chama_Cha_Mapinduzi
+TZN_communism_party:0 "АШС"
+TZN_communism_party_long:0 "Афро-ширазский союз" #https://wiki2.org/en/Afro-Shirazi_Party
+TZN_neutrality_party:0 "ААТ"
+TZN_neutrality_party_long:0 "Африканская ассоциация Танганьики" #https://wiki2.org/en/Tanganyika_African_Association
+
+ANG_fascism_party:0 "НСПНА"
+ANG_fascism_party_long:0 "Национальный союз за полную независимость Анголы" #https://wiki2.org/en/UNITA
+ANG_democratic_party:0 "НДОА"
+ANG_democratic_party_long:0 "Народное движение за освобождение Анголы" #https://wiki2.org/en/MPLA
+ANG_communism_party:0 "КПА"
+ANG_communism_party_long:0 "Коммунистическая партия Анголы" #https://wiki2.org/en/Angolan_Communist_Party
+ANG_neutrality_party:0 "НФОА"
+ANG_neutrality_party_long:0 "Национальный фронт освобождения Анголы" #https://wiki2.org/en/National_Liberation_Front_of_Angola
+
+ZAM_fascism_party:0 "ПНВ"
+ZAM_fascism_party_long:0 "Партия национального восстановления"
+ZAM_democratic_party:0 "АНКЗ"
+ZAM_democratic_party_long:0 "Африканский национальный конгресс Замбии" #https://wiki2.org/en/Zambian_African_National_Congress
+ZAM_communism_party:0 "РСП"
+ZAM_communism_party_long:0 "Революционная социалистическая партия"
+ZAM_neutrality_party:0 "ОПНН"
+ZAM_neutrality_party_long:0 "Объединённая партия национальной независимости" #https://wiki2.org/en/United_National_Independence_Party
+
+MLW_fascism_party:0 "ФНМ"
+MLW_fascism_party_long:0 "Форум нации Малави"
+MLW_democratic_party:0 "РП"
+MLW_democratic_party_long:0 "Объединённый демократический фронт" #https://wiki2.org/en/United_Democratic_Front_(Malawi)
+MLW_communism_party:0 "НРП"
+MLW_communism_party_long:0 "Народная рабочая партия"
+MLW_neutrality_party:0 "АКН"
+MLW_neutrality_party_long:0 "Африканский конгресс Ньясаленда" #https://wiki2.org/en/Nyasaland_African_Congress
+
+NMB_fascism_party:0 "НСЮЗА"
+NMB_fascism_party_long:0 "Национальный союз Юго-Западной Африки"
+NMB_democratic_party:0 "ХДП"
+NMB_democratic_party_long:0 "Христианско-демократическая партия"
+NMB_communism_party:0 "ОНЮЗА"
+NMB_communism_party_long:0 "Организация народов Юго-Западной Африки" #https://wiki2.org/en/SWAPO
+NMB_neutrality_party:0 "НДП"
+NMB_neutrality_party_long:0 "Национально-демократическая партия"
+
+BOT_fascism_party:0 "ПФБ"
+BOT_fascism_party_long:0 "Патриотический фронт Ботсваны"
+BOT_democratic_party:0 "ДПБ"
+BOT_democratic_party_long:0 "Демократическая партия Ботсваны" #https://wiki2.org/en/Botswana_Democratic_Party
+BOT_communism_party:0 "НПБ"
+BOT_communism_party_long:0 "Народная партия Ботсваны" #https://wiki2.org/en/Botswana_People%27s_Party
+BOT_neutrality_party:0 "Дом Кхама"
+BOT_neutrality_party_long:0 "Династия Кхама" #https://wiki2.org/en/Khama_III, https://wiki2.org/en/Tshekedi_Khama
+
+ZIM_fascism_party:0 "РПД"
+ZIM_fascism_party_long:0 "Родезийская партия действий" #https://wiki2.org/en/Rhodesian_Action_Party
+ZIM_democratic_party:0 "ЗАНС - ПФ"
+ZIM_democratic_party_long:0 "Зимбабвийский африканский национальный союз - Патриотический фронт" #https://wiki2.org/en/ZANU–PF
+ZIM_communism_party:0 "САНЗ"
+ZIM_communism_party_long:0 "Союз африканского народа Зимбабве" #https://wiki2.org/en/Zimbabwe_African_People%27s_Union
+ZIM_neutrality_party:0 "РФ"
+ZIM_neutrality_party_long:0 "Родезийский фронт" #https://wiki2.org/en/Rhodesian_Front
+
+MZB_fascism_party:0 "ФПД"
+MZB_fascism_party_long:0 "Фронт патриотического действия" #https://wiki2.org/en/Front_of_Patriotic_Action
+MZB_democratic_party:0 "НДСМ"
+MZB_democratic_party_long:0 "Национальный демократический союз Мозамбика" #https://wiki2.org/en/National_Democratic_Union_of_Mozambique
+MZB_communism_party:0 "ФОМ"
+MZB_communism_party_long:0 "Фронт освобождения Мозамбика" #https://wiki2.org/en/FRELIMO
+MZB_neutrality_party:0 "МНС"
+MZB_neutrality_party_long:0 "Мозамбикское национальное сопротивление" #https://wiki2.org/en/RENAMO
+
+MAD_fascism_party:0 "ПЛНИ"
+MAD_fascism_party_long:0 "Партия лишенных наследства Имерина" #https://wiki2.org/en/Parti_des_déshérités_de_Madagascar
+MAD_democratic_party:0 "ДДМО"
+MAD_democratic_party_long:0 "Демократическое движение за малагасийское омоложение" #https://wiki2.org/en/Mouvement_démocratique_de_la_rénovation_malgache / https://wiki2.org/en/Social_Democratic_Party_of_Madagascar_and_the_Comoros
+MAD_communism_party:0 "АВМ"
+MAD_communism_party_long:0 "Ассоциация за возрождение Мадагаскара" #https://wiki2.org/en/Association_for_the_Rebirth_of_Madagascar
+MAD_neutrality_party:0 "Дом Хова"
+MAD_neutrality_party_long:0 "Династия Хова" #https://wiki2.org/en/Princess_Marie-Louise_of_Madagascar
