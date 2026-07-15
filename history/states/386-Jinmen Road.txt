@@ -1,0 +1,11 @@
+state={
+	id=386
+	name="STATE_386"
+	provinces={
+		3513 4296 4328 4380 4398 7255 7315 7386 7442 10157 10183 10242 10271 12211 12281 
+	}
+	manpower=1563395
+	buildings_max_level_factor=1
+	state_category=large_town
+	local_supplies=0
+}
