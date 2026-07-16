@@ -1,0 +1,15 @@
+state={
+	id=375
+	name="STATE_375"
+	resources={
+		oil=320
+		aluminium=50
+	}
+	provinces={
+		1927 2019 2042 5061 6785 6987 12369 12782 
+	}
+	manpower=5824712
+	buildings_max_level_factor=1
+	state_category=metropolis
+	local_supplies=9
+}

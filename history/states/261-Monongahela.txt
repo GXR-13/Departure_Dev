@@ -1,0 +1,15 @@
+state={
+	id=261
+	name="STATE_261"
+	resources={
+		steel=28
+		aluminium=9
+	}
+	provinces={
+		827 971 3829 4601 6855 7528 9760 9775 11760 11776 11890 13154 
+	}
+	manpower=6646694
+	buildings_max_level_factor=1
+	state_category=metropolis
+	local_supplies=11
+}
