@@ -1,0 +1,34 @@
+l_chinese:
+
+"ANT_fascism:0 """""
+"ANT_fascism_DEF:0 "" """
+"ANT_democratic:0 """""
+"ANT_democratic_DEF:0 """""
+"ANT_neutrality:0 """""
+"ANT_neutrality_DEF:0 """""
+"ANT_communism:0 """""
+"ANT_communism_DEF:0 """""
+"ANT_fascism_ADJ:0 """""
+"ANT_democratic_ADJ:0 """""
+"ANT_neutrality_ADJ:0 """""
+"ANT_communism_ADJ:0 """""
+
+################
+### Bitter Peace ###
+################
+
+OOSK_fascism:"神圣圣火帝国"
+OSK_fascism_DEF:"神圣圣火帝国"
+OSK_fascism_ADJ:"七火会议的"
+OSK_democratic:"七火会议共和国"
+OSK_democratic_DEF:"七火会议共和国"
+OSK_democratic_ADJ:"七火会议的"
+OSK_communism:"七火人民共和国"
+OSK_communism_DEF:"七火人民共和国"
+OSK_communism_ADJ:"七火会议的"
+OSK_neutrality:"七圣火邦联"
+OSK_neutrality_DEF:"七圣火邦联"
+OSK_neutrality_ADJ:"七火会议的"
+OSK:"七火会议"
+OSK_DEF:"七火会议"
+OSK_ADJ:"七火会议的"

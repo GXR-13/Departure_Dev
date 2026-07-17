@@ -105,3 +105,8 @@ EZO = {
 
 
 
+
+OSK = {
+    color = rgb { 224 150 31 }
+    color_ui = rgb { 224 150 31 }
+}

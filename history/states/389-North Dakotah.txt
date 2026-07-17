@@ -1,6 +1,15 @@
 state={
 	id=389
 	name="STATE_389"
+	history={
+		owner = OSK
+		add_core_of = OSK
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	resources={
 		steel=17
 		oil=7

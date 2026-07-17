@@ -1,6 +1,15 @@
 state={
 	id=1034
 	name="STATE_1034"
+	history={
+		owner = OSK
+		add_core_of = OSK
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
 		1857 3769 4863 7718 10552 10593 10624 11712 
 	}
