@@ -1,0 +1,19 @@
+state={
+	id=1041
+	name="STATE_1041"
+	history={
+		owner = HDN
+		add_core_of = HDN
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
+	provinces={
+		1527 1560 4437 6713 6737 7611 9450 9682 10339 10393 10461 11589 12312 12357 12368 12456 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

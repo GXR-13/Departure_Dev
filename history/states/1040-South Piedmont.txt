@@ -1,0 +1,19 @@
+state={
+	id=1040
+	name="STATE_1040"
+	history={
+		owner = ENG
+		add_core_of = ENG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
+	provinces={
+		968 1485 4653 5090 9949 12803 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

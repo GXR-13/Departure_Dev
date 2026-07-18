@@ -1,6 +1,15 @@
 state={
 	id=394
 	name="STATE_394"
+	history={
+		owner = HDN
+		add_core_of = HDN
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	resources={
 		steel=53
 	}

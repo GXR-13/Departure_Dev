@@ -1,6 +1,15 @@
 state={
 	id=1033
 	name="STATE_1033"
+	history={
+		owner = HDN
+		add_core_of = HDN
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
 		1719 1734 6767 6827 7896 12550 12588 
 	}

@@ -110,3 +110,13 @@ OSK = {
     color = rgb { 224 150 31 }
     color_ui = rgb { 224 150 31 }
 }
+
+ENG = {
+    color = rgb { 183 11 19 }
+    color_ui = rgb { 183 11 19 }
+}
+
+HDN = {
+    color = rgb { 35 13 105 }
+    color_ui = rgb { 35 13 105 }
+}

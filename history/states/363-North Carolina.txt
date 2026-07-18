@@ -1,8 +1,17 @@
 state={
 	id=363
 	name="STATE_363"
+	history={
+		owner = ENG
+		add_core_of = ENG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
-		1019 1077 1132 1163 1506 4168 7045 7083 7138 9931 10051 10081 10096 10439 10468 10495 11783 12054 12445 
+		1019 1077 1132 1163 4168 7045 7083 10051 10081 11783 12054 
 	}
 	manpower=3170274
 	buildings_max_level_factor=1

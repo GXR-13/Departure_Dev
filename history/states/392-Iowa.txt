@@ -1,6 +1,15 @@
 state={
 	id=392
 	name="STATE_392"
+	history={
+		owner = HDN
+		add_core_of = HDN
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
 		1586 1678 1770 1831 4664 4691 4807 7306 7458 7536 7539 9892 9910 10333 10478 10516 10666 11788 11971 12418 12577 12646 
 	}

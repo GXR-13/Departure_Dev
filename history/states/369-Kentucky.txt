@@ -1,6 +1,15 @@
 state={
 	id=369
 	name="STATE_369"
+	history={
+		owner = ENG
+		add_core_of = ENG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
 		1445 4402 4452 4988 6696 6974 7547 9727 10586 10727 12568 12709 
 	}

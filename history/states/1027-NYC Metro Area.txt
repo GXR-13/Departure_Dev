@@ -1,10 +1,20 @@
 state={
 	id=1027
 	name="STATE_1027"
+	history={
+		owner = ENG
+		add_core_of = ENG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
 		859 3693 3863 3878 3894 6882 11782 
 	}
 	manpower=0
 	buildings_max_level_factor=1
+	state_category=metropolis
 	local_supplies=0
 }

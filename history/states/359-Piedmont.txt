@@ -1,0 +1,20 @@
+state={
+	id=359
+	name="STATE_359"
+	history={
+		owner = ENG
+		add_core_of = ENG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
+	provinces={
+		873 951 1506 3823 4491 7138 9931 10081 10096 10343 10412 10439 10468 10495 11841 11873 12445 
+	}
+	manpower=4041332
+	buildings_max_level_factor=1
+	state_category=large_city
+	local_supplies=15
+}
