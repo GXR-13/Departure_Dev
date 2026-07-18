@@ -120,3 +120,13 @@ HDN = {
     color = rgb { 35 13 105 }
     color_ui = rgb { 35 13 105 }
 }
+
+NGN = {
+    color = rgb { 31 51 50 }
+    color_ui = rgb { 31 51 50 }
+}
+
+NMN = {
+    color = rgb { 247 207 8 }
+    color_ui = rgb { 247 207 8 }
+}

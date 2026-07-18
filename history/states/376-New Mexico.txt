@@ -1,6 +1,15 @@
 state={
 	id=376
 	name="STATE_376"
+	history={
+		owner = NGN
+		add_core_of = NGN
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	resources={
 		oil=14
 		aluminium=30

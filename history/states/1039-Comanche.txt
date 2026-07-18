@@ -1,6 +1,16 @@
 state={
 	id=1039
 	name="STATE_1039"
+	history={
+		owner = NGN
+		add_core_of = NGN
+		add_core_of = NMN
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
 		1915 1998 3875 4955 5085 6798 8064 9773 10867 12301 12720 12728 12848 12875 12893 
 	}

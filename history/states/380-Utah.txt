@@ -5,7 +5,7 @@ state={
 		tungsten=76
 	}
 	provinces={
-		1663 4865 7756 7888 9695 10582 10651 12535 13153 
+		1663 4668 4865 7756 7888 9695 10582 10651 12535 13153 
 	}
 	manpower=507846
 	buildings_max_level_factor=1
