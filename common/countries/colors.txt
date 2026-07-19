@@ -150,3 +150,43 @@ NUC = {
     color = rgb { 147 188 67 }
     color_ui = rgb { 147 188 67 }
 }
+
+FRA = {
+    color = rgb { 57 76 158 }
+    color_ui = rgb { 57 76 158 }
+}
+
+BRT = {
+    color = rgb { 194 35 19 }
+    color_ui = rgb { 194 35 19 }
+}
+
+NLD = {
+    color = rgb { 203 138 33 }
+    color_ui = rgb { 203 138 33 }
+}
+
+KLM = {
+    color = rgb { 36 132 247 }
+    color_ui = rgb { 36 132 247 }
+}
+
+PAL = {
+    color = rgb { 241 14 95 }
+    color_ui = rgb { 241 14 95 }
+}
+
+HUS = {
+    color = rgb { 172 214 41 }
+    color_ui = rgb { 172 214 41 }
+}
+
+PRU = {
+    color = rgb { 36 36 36 }
+    color_ui = rgb { 36 36 36 }
+}
+
+GER = {
+    color = rgb { 29 226 220 }
+    color_ui = rgb { 29 226 220 }
+}

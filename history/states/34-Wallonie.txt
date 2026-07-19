@@ -9,6 +9,8 @@ state = {
 	state_category = large_city
 
 	history = {
+		owner = NLD
+		add_core_of = NLD
 
  
  

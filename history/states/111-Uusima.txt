@@ -7,6 +7,8 @@ state = {
 	state_category = large_town
 	
 	history = {
+		owner = KLM
+		add_core_of = KLM
  
  
 		victory_points = { #Helsinki

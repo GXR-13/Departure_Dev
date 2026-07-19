@@ -10,6 +10,8 @@ state = {
 	state_category = metropolis
 
 	history = {
+		owner = NLD
+		add_core_of = NLD
 
  
  

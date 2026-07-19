@@ -6,6 +6,8 @@ state = {
 	state_category = small_island
 	
 	history = {
+		owner = BRT
+		add_core_of = BRT
  
 		buildings = {
 			infrastructure = 2

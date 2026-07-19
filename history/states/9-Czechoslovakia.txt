@@ -9,6 +9,8 @@ state={
 	state_category = large_city
 	
 	history={
+		owner = HUS
+		add_core_of = HUS
  
 		victory_points = { 11542 30 }
 		victory_points = { 6418 5 }

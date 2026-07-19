@@ -4,6 +4,8 @@ state={
 	name="STATE_810"
 
 	history={
+		owner = PAL
+		add_core_of = PAL
  
 		victory_points = {
 			6222 3 #Jelgava

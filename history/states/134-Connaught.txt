@@ -8,6 +8,8 @@ state=
 	state_category = town
 
 	history= {
+		owner = BRT
+		add_core_of = BRT
  
 		victory_points = {
 			9303 3 #Galway

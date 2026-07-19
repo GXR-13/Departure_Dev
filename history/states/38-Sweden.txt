@@ -6,6 +6,8 @@ state = {
 	
 
 	history = {
+		owner = KLM
+		add_core_of = KLM
  
  
 

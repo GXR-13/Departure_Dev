@@ -12,6 +12,8 @@ state = {
 	state_category = city
 
 	history = {
+		owner = HUS
+		add_core_of = HUS
 		
  
  

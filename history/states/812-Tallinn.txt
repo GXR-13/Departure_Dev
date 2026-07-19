@@ -4,6 +4,8 @@ state={
 	name="STATE_812"
 
 	history={
+		owner = PAL
+		add_core_of = PAL
  
 		victory_points = {
 			3152 5 

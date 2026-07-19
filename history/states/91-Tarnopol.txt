@@ -6,6 +6,8 @@ state={
 	state_category = city
 	
 	history={
+		owner = PAL
+		add_core_of = PAL
  
 		victory_points = {
 			11479 3

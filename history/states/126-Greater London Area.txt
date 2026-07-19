@@ -6,6 +6,8 @@ state={
 	state_category = megalopolis
 
 	history={
+		owner = BRT
+		add_core_of = BRT
  
 		victory_points = {
 			6103 50 

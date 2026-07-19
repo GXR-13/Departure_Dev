@@ -1,0 +1,14 @@
+state={
+	id=1046
+	name="STATE_1046"
+	history = {
+		owner = PAL
+		add_core_of = PAL
+	}
+	provinces={
+		6423 9419 9433 11561 11715 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+}

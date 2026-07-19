@@ -6,6 +6,8 @@ state = {
 	state_category = city
 
 	history = {
+		owner = BRT
+		add_core_of = BRT
 
  
  

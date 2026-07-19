@@ -6,6 +6,8 @@ state={
 	state_category = rural
 	
 	history={
+		owner = HUS
+		add_core_of = HUS
  
 		buildings = {
 			infrastructure = 3

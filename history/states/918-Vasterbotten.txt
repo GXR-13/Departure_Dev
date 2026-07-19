@@ -10,6 +10,8 @@ state = {
 	}
 
 	history = {
+		owner = KLM
+		add_core_of = KLM
 		victory_points = {
 			6132 2
 		}

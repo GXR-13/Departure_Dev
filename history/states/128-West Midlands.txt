@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+		owner = BRT
+		add_core_of = BRT
  
 		buildings = {
 			infrastructure = 4 #was: 8

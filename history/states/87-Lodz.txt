@@ -5,6 +5,8 @@ state={
 	
 	state_category = town
 	history={
+		owner = PAL
+		add_core_of = PAL
  
 		buildings = {
 			infrastructure = 3

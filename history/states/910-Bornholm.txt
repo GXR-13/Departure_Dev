@@ -5,6 +5,8 @@ state = {
 	manpower = 45819
 
 	history = {
+		owner = KLM
+		add_core_of = KLM
  
  
 		buildings = {

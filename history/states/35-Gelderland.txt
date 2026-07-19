@@ -3,6 +3,8 @@ state={
 	name="STATE_35"
 
 	history={
+		owner = NLD
+		add_core_of = NLD
  
  
 		buildings = {

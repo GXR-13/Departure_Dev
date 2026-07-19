@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+		owner = BRT
+		add_core_of = BRT
  
  
 		victory_points = {

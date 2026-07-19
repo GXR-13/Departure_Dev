@@ -6,7 +6,8 @@ state={
 	state_category = enclave
 
 	history={
- 
+		owner = KLM
+		add_core_of = KLM
 
 		victory_points = { #Petsamo
 			9140 1

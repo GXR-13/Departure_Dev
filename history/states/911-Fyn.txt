@@ -5,6 +5,8 @@ state = {
 	state_category = town
 
 	history = {
+		owner = KLM
+		add_core_of = KLM
  
  
 		victory_points = {

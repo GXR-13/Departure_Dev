@@ -3,6 +3,8 @@ state={
 	name="STATE_94"
 
 	history={
+		owner = PAL
+		add_core_of = PAL
  
 		buildings = {
 			infrastructure = 2

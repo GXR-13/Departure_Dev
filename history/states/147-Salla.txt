@@ -5,7 +5,9 @@ state = {
 	
 	state_category = enclave
 	
-	history = {	
+	history = {
+		owner = KLM
+		add_core_of = KLM
  
 
 		buildings = {
