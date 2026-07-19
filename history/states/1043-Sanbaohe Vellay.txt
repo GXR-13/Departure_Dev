@@ -1,8 +1,18 @@
 state={
 	id=1043
 	name="STATE_1043"
+	history={
+		owner = QIQ
+		add_core_of = QIQ
+		add_core_of = SLS
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
-		1320 4747 7414 7677 7753 10155 10198 10327 10690 12155 12214 
+		1320 4747 7414 7677 7753 10155 10198 10327 10690 12155 12214 12673 
 	}
 	manpower=0
 	buildings_max_level_factor=1

@@ -6,6 +6,14 @@ state = {
 	state_category = rural
 
 	history = {
+		owner = QIQ
+		add_core_of = QIQ
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                
 
  
  

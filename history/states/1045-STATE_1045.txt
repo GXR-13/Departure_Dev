@@ -1,6 +1,15 @@
 state={
 	id=1045
 	name="STATE_1045"
+	history={
+		owner = NUC
+		add_core_of = NUC
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
 		850 1740 4742 10662 12573 12699 
 	}

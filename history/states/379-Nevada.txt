@@ -1,6 +1,15 @@
 state={
 	id=379
 	name="STATE_379"
+	history={
+		owner = QIQ
+		add_core_of = QIQ
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	resources={
 		steel=70
 		tungsten=32

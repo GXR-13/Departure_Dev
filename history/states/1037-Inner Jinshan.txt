@@ -1,6 +1,15 @@
 state={
 	id=1037
 	name="STATE_1037"
+	history={
+		owner = QIQ
+		add_core_of = QIQ
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
 		1651 4521 4657 4799 7667 7879 10387 12303 12425 
 	}

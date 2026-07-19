@@ -1,8 +1,17 @@
 state={
 	id=1044
 	name="STATE_1044"
+	history={
+		owner = SLS
+		add_core_of = SLS
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+                }
 	provinces={
-		1347 1690 1832 4765 4838 4877 7761 7820 12124 12578 12676 
+		1347 1690 1832 4765 4778 4838 4877 7761 7820 10693 12124 12578 12676 
 	}
 	manpower=0
 	buildings_max_level_factor=1
